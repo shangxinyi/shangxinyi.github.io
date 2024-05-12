@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-  You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ)
+  <!-- You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ) -->
   
   \# indicates equal contributions, \* indicates corresponding author.
 
 
-## 2023
+<!-- ## 2023
 - [<span style="color:blue"><strong>ICML'23</strong></span>] Revisiting Weighted Aggregation in Federated Learning with Neural Networks <br> 
   Zexi Li, Tao Lin, **Xinyi Shang**, and Chao Wu. 2023.<br>
   *International Conference on Machine Learning*, Honolulu, Hawai'i, July 23-29, 2023.<br>
@@ -23,7 +23,7 @@ author_profile: true
 
 - [<span style="color:blue"><strong>Preprint</strong></span>] Federated Semi-Supervised Learning with Annotation Heterogeneity <br> 
    **Xinyi Shang**\#, Gang Huang\#, Yang Lu\*, [Jian Lou](https://sites.google.com/view/jianlou), [Bo Han](https://bhanml.github.io/), Yiu-ming Cheung, and Hanzi Wang. 2023.<br>
-    [[arXiv](https://arxiv.org/abs/2303.02445)]
+    [[arXiv](https://arxiv.org/abs/2303.02445)] -->
 
 ## 2022
 - [<span style="color:blue"><strong>IJCAI'22</strong></span>] Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features<br>
