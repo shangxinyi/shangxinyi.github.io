@@ -28,12 +28,14 @@ author_profile: true
 ## 2022
 - [<span style="color:blue"><strong>IJCAI'22</strong></span>] Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features<br>
   **Xinyi Shang**, [Yang Lu\*](https://jasonyanglu.github.io/), [Gang Huang](https://gondor.org/), and [Hanzi Wang](https://pami.xmu.edu.cn/hanzi/)<br>
-  *International Joint Conference on Artificial Intelligence*, pp.2218-2224, Vienna, Austria, July 23-29, 2022.<br>
+  *IJCAI*, pp.2218-2224, Vienna, Austria, July 23-29, 2022.<br>
+ <!-- *International Joint Conference on Artificial Intelligence*, pp.2218-2224, Vienna, Austria, July 23-29, 2022.<br>-->
   [[arXiv](https://arxiv.org/abs/2204.13399)][[code](https://github.com/shangxinyi/CReFF-FL)]
   
 - [<span style="color:blue"><strong>ICME'22 (Oral)</strong></span>] FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation<br>
   **Xinyi Shang**, Yang Lu\*, [Yiu-ming Cheung](https://www.comp.hkbu.edu.hk/~ymc/), and Hanzi Wang<br>
-  *IEEE International Conference on Multimedia and Expo*, pp.1-6, Taipei, Taiwan, July 18-22, 2022.<br>
+  *ICME*, pp.1-6, Taipei, Taiwan, July 18-22, 2022.<br>
+  <!--*IEEE International Conference on Multimedia and Expo*, pp.1-6, Taipei, Taiwan, July 18-22, 2022.<br>-->
   [[arXiv](https://arxiv.org/abs/2205.00172)][[code](https://github.com/shangxinyi/FEDIC)]
 
 <!-- ## Patents -->
