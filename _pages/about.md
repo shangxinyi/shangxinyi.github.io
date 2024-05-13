@@ -12,7 +12,8 @@ I am Xinyi, a Ph.D. candidate at University College London (UCL), luckily superv
 
 ## Research Interests
 - Imperfect Data Learning
-<!-- - **Collaborative deep learning**
+ <!--
+ - **Collaborative deep learning**
   - Federated Learning
 - **Generalized Deep Learning**
   - Long-tailed Learning
@@ -22,8 +23,10 @@ I am Xinyi, a Ph.D. candidate at University College London (UCL), luckily superv
 
 ## Information
 - Email: xinyi.shangxy [at] gmail.com
-<!-- - Github: [https://github.com/shangxinyi/](https://github.com/shangxinyi/)
-- Google Scholar: [https://scholar.google.com/](https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ)-->
+<!-- 
+- Github: [https://github.com/shangxinyi/](https://github.com/shangxinyi/)
+- Google Scholar: [https://scholar.google.com/](https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ)
+-->
 
 <!--Tip: *Italics* indicate the first author.-->
 
