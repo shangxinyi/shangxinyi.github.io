@@ -11,22 +11,22 @@ I am Xinyi, a Ph.D. candidate at University College London (UCL), luckily superv
 <!-- - My research is mainly funded by CSC and UCL jointly. Before that, I received my master's degree with honors in Computer Science from Xiamen University (XMU), fortunately supervised by [Dr. Yang Lu](https://jasonyanglu.github.io/). My main research interests lie in **Collaborative Deep Learning** and **Generalized Deep Learning under imperfect environments**.-->
 
 ## Research Interests
-- Imperfect Data Learning
+- Imperfect Data Analysis
  <!--
+ xxx
  - **Collaborative deep learning**
   - Federated Learning
 - **Generalized Deep Learning**
   - Long-tailed Learning
   - Out-of-distribution Generalization
   - Underspecification Data
+xxx
 -->
 
 ## Information
 - Email: xinyi.shangxy [at] gmail.com
-<!-- 
-- Github: [https://github.com/shangxinyi/](https://github.com/shangxinyi/)
-- Google Scholar: [https://scholar.google.com/](https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ)
--->
+<!-- Github: [https://github.com/shangxinyi/](https://github.com/shangxinyi/)-->
+<!-- Google Scholar: [https://scholar.google.com/](https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ) -->
 
 <!--Tip: *Italics* indicate the first author.-->
 
