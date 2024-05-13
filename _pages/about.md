@@ -12,16 +12,7 @@ I am Xinyi, a Ph.D. candidate at University College London (UCL), luckily superv
 
 ## Research Interests
 - Imperfect Data Analysis
- <!--
- xxx
- - **Collaborative deep learning**
-  - Federated Learning
-- **Generalized Deep Learning**
-  - Long-tailed Learning
-  - Out-of-distribution Generalization
-  - Underspecification Data
-xxx
--->
+ <!-- - **Collaborative deep learning** - Federated Learning - **Generalized Deep Learning** - Long-tailed Learning - Out-of-distribution Generalization - Underspecification Data -->
 
 ## Information
 - Email: xinyi.shangxy [at] gmail.com
@@ -37,8 +28,8 @@ xxx
 <!-- - **Mar 28 2023**: Receive the PhD offer from **University College London (UCL)** supported by UCL-CSC scholarship!-->
 <!-- - **Nov 23 2022**: Start research intern at Westlake University, supervised by [Prof. Tao Lin](https://tlin-taolin.github.io/).-->
 <!-- - **Sep 29 2022**: Get the China National Scholarship.-->
-<!-- - **Apr 21 2022**: One IJCAI paper  ["Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features"](https://arxiv.org/pdf/2204.13399.pdf) is accepted.
-- **Mar 6 2022**: One ICME paper  ["FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation"](https://arxiv.org/pdf/2205.00172.pdf) is accepted as oral paper. -->
+<!-- - **Apr 21 2022**: One IJCAI paper  ["Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features"](https://arxiv.org/pdf/2204.13399.pdf) is accepted. -->
+<!-- - **Mar 6 2022**: One ICME paper  ["FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation"](https://arxiv.org/pdf/2205.00172.pdf) is accepted as oral paper. -->
 
 ## Academic Service
 - Reviewers: TNNLS, NeurIPS2022, <!-- AAAI2023.-->
