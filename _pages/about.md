@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Xinyi, a Ph.D. candidate at University College London (UCL), luckily supervised by [Prof. Jing-Hao Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). 
-<!-- - My research is mainly funded by CSC and UCL jointly. Before that, I received my master's degree with honors in Computer Science from Xiamen University (XMU), fortunately supervised by [Dr. Yang Lu](https://jasonyanglu.github.io/). My main research interests lie in **Collaborative Deep Learning** and **Generalized Deep Learning under imperfect environments**.-->
+Hello~ I am Xinyi, a Ph.D. candidate at University College London (UCL), luckily supervised by [Prof. Jing-Hao Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). My research is mainly funded by CSC and UCL jointly. Before that, I received my master's degree with honors in Computer Science from Xiamen University (XMU), fortunately supervised by [Dr. Yang Lu](https://jasonyanglu.github.io/). My main research interests lie in **Collaborative Deep Learning** and **Generalized Deep Learning under imperfect environments**.
 
 ## Research Interests
 - **Collaborative deep learning**
@@ -21,8 +20,8 @@ I am Xinyi, a Ph.D. candidate at University College London (UCL), luckily superv
   - Dataset Distillation
 ## Information
 - Email: xinyi.shang.23 [at] ucl.ac.uk
-Github: [https://github.com/shangxinyi/](https://github.com/shangxinyi/)
-Google Scholar: [https://scholar.google.com/](https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ)
+- Github: [https://github.com/shangxinyi/](https://github.com/shangxinyi/)
+- Google Scholar: [https://scholar.google.com/](https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ)
 
 <!--Tip: *Italics* indicate the first author.-->
 
@@ -30,7 +29,6 @@ Google Scholar: [https://scholar.google.com/](https://scholar.google.com/citatio
 ## Recent News
 - **May 19 2023**: Receive the **Outstanding Master Thesis** Award.
 - **Mar 28 2023**: Receive the PhD offer from **University College London (UCL)** supported by scholarship!!
-<!-- - **Mar 28 2023**: Receive the PhD offer from **University College London (UCL)** supported by UCL-CSC scholarship!-->
 - **Nov 23 2022**: Start research intern at Westlake University, supervised by [Prof. Tao Lin](https://tlin-taolin.github.io/).
 - **Sep 29 2022**: Get the China National Scholarship.
 - **Apr 21 2022**: One IJCAI paper  ["Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features"](https://arxiv.org/pdf/2204.13399.pdf) is accepted. 
