@@ -10,7 +10,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   \* indicates equal contributions, $\dagger$ indicates corresponding author.
 
 ## 2024
-- [<span style="color:blue"><strong>ICLRW‘24</strong></span>] Information Compensation: A Fix for Any-scale Dataset Distillation <br> 
+- [<span style="color:blue"><strong>ICLRW'24</strong></span>] Information Compensation: A Fix for Any-scale Dataset Distillation <br> 
   Peng Sun, Bei Shi, **Xinyi Shang**, Tao Lin$^\dagger$. 2024.<br>
   [[arXiv](https://openreview.net/pdf?id=2SnmKd1JK4)]
 - [<span style="color:blue"><strong>Preprint</strong></span>] GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost <br> 
