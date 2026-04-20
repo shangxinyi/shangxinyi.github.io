@@ -42,7 +42,12 @@ You can reach me at <a href="mailto:xinyi.shang.23@ucl.ac.uk">xinyi.shang.23@ucl
 
 # 🎯 Research Interests
 
-My research centers on **efficient** and **generalized** deep learning. Numbers in brackets link to the corresponding entries in [Publications](#-publications) below.
+My research centers on **efficient** and **generalized** deep learning, with recent interests extending to **foundation models and generative AI**. Numbers in brackets link to the corresponding entries in [Publications](#-publications) below.
+
+- **Foundation Models & Generative AI.** Studying the design and safety of AI agent systems, pushing vision–language understanding to finer-grained semantics, and making generative modeling faster and more scalable.
+  - *AI agent analysis & defense:* understanding Claude Code's design space [[1](#pub-1)] and defending against GUI agents via cognitive-gap CAPTCHAs [[3](#pub-3)].
+  - *Vision–language understanding:* semantic, pixel-level image tampering detection beyond masks [[2](#pub-2)].
+  - *Efficient generative modeling:* fast, scalable analytical diffusion [[4](#pub-4)] and one-step generation via duality [[5](#pub-5)].
 
 - **Efficient Deep Learning.** Compressing large datasets into compact, informative subsets, and identifying which data most effectively drives training efficiency.
   - *Scalable distillation:* methods scaling from CIFAR-10 to ImageNet-1K [[10](#pub-10)].
