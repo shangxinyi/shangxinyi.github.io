@@ -35,9 +35,27 @@ You can reach me via email at <a href="mailto:xinyi.shang.23@ucl.ac.uk">xinyi.sh
 
 # 📝 Publications 
 
-- [Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features](https://arxiv.org/pdf/2204.13399.pdf), **Xinyi Shang**, Yang Lu, Gang Huang, Hanzi Wang, **IJCAI 2022**.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/500x300.png' alt="fedraf" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- [FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation](https://arxiv.org/pdf/2205.00172.pdf), **Xinyi Shang**, Yang Lu, Yiu-ming Cheung, Hanzi Wang, **ICME 2022 (Oral)**.
+[Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features](https://arxiv.org/pdf/2204.13399.pdf)
+
+**Xinyi Shang**, Yang Lu, Gang Huang, Hanzi Wang
+
+- A classifier re-training strategy that leverages federated features to address both data heterogeneity and long-tailed class distribution in federated learning.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2022 Oral</div><img src='images/500x300.png' alt="fedic" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation](https://arxiv.org/pdf/2205.00172.pdf)
+
+**Xinyi Shang**, Yang Lu, Yiu-ming Cheung, Hanzi Wang
+
+- A calibrated distillation framework tailored to federated settings where client data are both non-IID and long-tailed.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2023* Xiamen University Outstanding Master Thesis.
