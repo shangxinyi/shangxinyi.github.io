@@ -19,8 +19,10 @@ redirect_from:
 
 Hi~ I'm Xinyi, a Ph.D. candidate at University College London (UCL), fortunate to be supervised by [Prof. Jing-Hao Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). Before UCL, I received my master's degree with honors from Xiamen University (XMU) under the wonderful guidance of [Prof. Yang Lu](https://jasonyanglu.github.io/).
 
-I'm currently a visiting student at MBZUAI, supervised by [Prof. Zhiqiang Shen](https://zhiqiangshen.com/). I've also been lucky to spend time as a research intern at Westlake University with [Prof. Tao Lin](https://tlin-taolin.github.io/), and at Wuhan University with [Prof. Mang Ye](https://marswhu.github.io/).
-I'm especially grateful to my long-term collaborators, [Peng Sun](https://scholar.google.com/citations?user=-8XvRRIAAAAJ&hl=zh-CN) at Westlake & Zhejiang University and Jingyu Lin at Monash University, whose friendship and shared curiosity continue to make research a joy.
+I'm currently a visiting student at MBZUAI, supervised by [Prof. Zhiqiang Shen](https://zhiqiangshen.com/). I've also been lucky to spend time as a research intern at Westlake University with [Prof. Tao Lin](https://tlin-taolin.github.io/), and at Wuhan University with [Prof. Mang Ye](https://marswhu.github.io/). I'm especially grateful to my long-term collaborators, [Peng Sun](https://scholar.google.com/citations?user=-8XvRRIAAAAJ&hl=zh-CN) at Westlake University & Zhejiang University, and Jingyu Lin at Monash University, whose friendship and shared curiosity make research truly wonderful and joyful.
+
+Last but not least, a heartfelt thank-you to my three cats, for their unwavering company throughout my Ph.D. journey. 🐾
+
 
 You can reach me at <a href="mailto:xinyi.shang.23@ucl.ac.uk">xinyi.shang.23@ucl.ac.uk</a>, and find my publications on <a href='https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ'>Google Scholar</a> <a href='https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
