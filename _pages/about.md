@@ -229,12 +229,13 @@ Zexi Li, Tao Lin<sup>†</sup>, **Xinyi Shang**, Chao Wu<sup>†</sup>.
 - *2018* Star of Excellent Volunteers honor (only one student in the college per year).
 
 # 💻 Research Experience
+- *2025.09 - Present*, Research Intern, [VILA Lab](https://github.com/VILA-Lab), Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), supervised by [Prof. Zhiqiang Shen](https://zhiqiangshen.com/).
 - *2022.11 - 2023.09*, Research Intern, [LINs Lab](https://lins-lab.github.io/), Westlake University, supervised by [Prof. Tao Lin](https://tlin-taolin.github.io/). *Decentralized deep learning.*
 - *2022.06 - 2022.09*, Research Intern, MARS Lab, Wuhan University, supervised by [Prof. Mang Ye](https://marswhu.github.io/). *Federated learning.*
 
 # 🤝 Academic Service
-- **Conference Reviewer:** NeurIPS 2025, ICCV 2025, ICLR 2025, CVPR 2025, WACV 2025, IJCAI 2024.
-- **Journal Reviewer:** IEEE TNNLS, IEEE TCSVT, ACM CSUR, IEEE TC, IEEE TETCI.
+- **Conference Reviewer:** ECCV 2026, KDD 2026, ICML 2026, CVPR 2026, ICLR 2026, ICLR 2025, NeurIPS 2025, ICCV 2025, ICLR 2025, CVPR 2025, WACV 2025, IJCAI 2024.
+- **Journal Reviewer:** IEEE TPAMI / TNNLS / TCSVT, ACM Computing Surveys.
 
 # 🙌 Voluntary Activities
 - *2019.03 - 2019.09*, Director of [Teach For China](https://baike.baidu.com/item/%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD/499616) at Zhongnan University of Economics and Law.
