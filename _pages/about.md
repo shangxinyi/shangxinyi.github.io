@@ -217,11 +217,6 @@ Runkang Yang<sup>*</sup>, Peng Sun<sup>*</sup>, **Xinyi Shang<sup>*</sup>**, Yi 
 - *2019* Provincial Excellent Volunteer honor (500+ hours of volunteering).
 - *2018* Star of Excellent Volunteers honor (only one student in the college per year).
 
-# 📖 Educations
-- *2023.09 - 2026 (expected)*, Ph.D. in Statistical Science, University College London.
-- *2020.09 - 2023.06*, M.S. in Computer Technology, Xiamen University.
-- *2016.09 - 2020.06*, B.S. in Computer Science and Technology, Zhongnan University of Economics and Law.
-
 # 💻 Research Experience
 - *2022.11 - 2023.09*, Research Intern, [LINs Lab](https://lins-lab.github.io/), Westlake University, supervised by [Prof. Tao Lin](https://tlin-taolin.github.io/). *Decentralized deep learning.*
 - *2022.06 - 2022.09*, Research Intern, MARS Lab, Wuhan University, supervised by [Prof. Mang Ye](https://marswhu.github.io/). *Federated learning.*
