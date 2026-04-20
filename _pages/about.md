@@ -45,35 +45,79 @@ You can reach me at <a href="mailto:xinyi.shang.23@ucl.ac.uk">xinyi.shang.23@ucl
 My research centers on **efficient** and **generalized** deep learning. Numbers in brackets link to the corresponding entries in [Publications](#-publications) below.
 
 - **Efficient Deep Learning.** Compressing large datasets into compact, informative subsets, and identifying which data most effectively drives training efficiency.
-  - *Scalable distillation:* methods scaling from CIFAR-10 to ImageNet-1K [[5](#pub-5)].
-  - *Enhanced utilization:* unlocking the full label potential of distilled data [[4](#pub-4)].
-  - *Survey:* the first comprehensive, stage-wise review of dataset distillation in the large-scale-data era [[1](#pub-1)].
+  - *Scalable distillation:* methods scaling from CIFAR-10 to ImageNet-1K [[10](#pub-10)].
+  - *Enhanced utilization:* unlocking the full label potential of distilled data [[9](#pub-9)].
+  - *Survey:* the first comprehensive, stage-wise review of dataset distillation in the large-scale-data era [[7](#pub-7)].
 
 - **Federated Learning (FL).** A privacy-preserving distributed paradigm enabling collaborative model training across devices or organizations without sharing raw data.
-  - *Imperfect global data:* addressing long-tailed class distributions [[9](#pub-9),[8](#pub-8)] and limited labeled data [[3](#pub-3),[2](#pub-2)] for improved robustness.
-  - *Personalization:* strengthening local-model personalization while preserving global performance [[6](#pub-6)].
-  - *Generalization & optimization:* improving global-model generalization through the lens of training dynamics [[7](#pub-7)].
+  - *Imperfect global data:* addressing long-tailed class distributions [[14](#pub-14),[13](#pub-13)] and limited labeled data [[8](#pub-8),[6](#pub-6)] for improved robustness.
+  - *Personalization:* strengthening local-model personalization while preserving global performance [[11](#pub-11)].
+  - *Generalization & optimization:* improving global-model generalization through the lens of training dynamics [[12](#pub-12)].
 
 
 # 📝 Publications 
 
 <sub><em><sup>*</sup> denotes equal contribution; <sup>†</sup> denotes corresponding author.</em></sub>
 
-<div class='paper-box' id='pub-1'><div class='paper-box-image'><div><div class="badge">Preprint T-PAMI</div><img src='images/500x300.png' alt="dd-survey" width="100%"></div></div>
+<div class='paper-box' id='pub-1'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="claudecode" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[1]** [Dataset Distillation in the Era of Large-Scale Data: Methods, Analysis, and Future Directions](https://www.techrxiv.org/users/923195/articles/1295079-dataset-distillation-in-the-era-of-large-scale-data-methods-analysis-and-future-directions)
+**[1]** [Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://arxiv.org/pdf/2604.14228) \| [[code]](https://github.com/VILA-Lab/Dive-into-Claude-Code)
 
-**Xinyi Shang**, Peng Sun, Zhiqiang Shen, Tao Lin, Jing-Hao Xue.
+Jiacheng Liu, Xiaohan Zhao, **Xinyi Shang**, Zhiqiang Shen.
 
-- We identify four significant shifts in the field of dataset distillation and provide the first comprehensive, stage-wise review through the dataset-distillation pipeline.
+- A technical report analyzing Claude Code's architecture as an agentic coding tool, identifying five core human values and thirteen design principles that guide its implementation.
 </div>
 </div>
 
-<div class='paper-box' id='pub-2'><div class='paper-box-image'><div><div class="badge">TAI 2025</div><img src='images/500x300.png' alt="fedssl-ah" width="100%"></div></div>
+<div class='paper-box' id='pub-2'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="vlm-tampering" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[2]** [Federated Semi-Supervised Learning with Annotation Heterogeneity](https://arxiv.org/pdf/2303.02445.pdf)
+**[2]** [From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering](https://arxiv.org/pdf/2603.20193)
+
+**Xinyi Shang**, Yi Tang, Jiacheng Cui, Ahmed Elhagry, Salwa K. Al Khatib, Sondos Mahmoud Bsharat, Jiacheng Liu, Xiaohan Zhao, Jing-Hao Xue, Hao Li, Salman Khan, Zhiqiang Shen.
+
+- We move VLM-based image tampering detection from coarse mask-based annotations to pixel-level detection with semantic understanding, introducing a new taxonomy, benchmark, and evaluation metrics.
+</div>
+</div>
+
+<div class='paper-box' id='pub-3'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="captchas" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[3]** [Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense](https://arxiv.org/pdf/2602.09012)
+
+Jiacheng Liu, Yaxin Luo, Jiacheng Cui, **Xinyi Shang**, Xiaohan Zhao, Zhiqiang Shen.
+
+- A scalable CAPTCHA framework that exploits human–AI cognitive gaps to defend against advanced GUI agents via dynamic, adaptive intuitive-reasoning tasks.
+</div>
+</div>
+
+<div class='paper-box' id='pub-4'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="golddiff" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[4]** [Fast and Scalable Analytical Diffusion](https://arxiv.org/pdf/2602.16498)
+
+**Xinyi Shang**, Peng Sun, Jingyu Lin, Zhiqiang Shen.
+
+- GoldDiff dynamically identifies relevant subsets of training data per-timestep, delivering substantial speedups for analytical diffusion and scaling successfully to ImageNet-1K.
+</div>
+</div>
+
+<div class='paper-box' id='pub-5'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="duality" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[5]** [Duality Models: An Embarrassingly Simple One-step Generation Paradigm](https://arxiv.org/pdf/2602.17682)
+
+Peng Sun, **Xinyi Shang**, Tao Lin, Zhiqiang Shen.
+
+- A one-input-dual-output framework that jointly predicts velocity and flow-map from a shared backbone, enabling efficient two-step image generation with state-of-the-art results on ImageNet 256×256.
+</div>
+</div>
+
+<div class='paper-box' id='pub-6'><div class='paper-box-image'><div><div class="badge">TAI 2026</div><img src='images/500x300.png' alt="fedssl-ah" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[6]** [Federated Semi-Supervised Learning with Annotation Heterogeneity](https://arxiv.org/pdf/2303.02445.pdf)
 
 **Xinyi Shang**, Gang Huang, Yang Lu<sup>†</sup>, Jian Lou, Bo Han, Yiu-ming Cheung, Hanzi Wang.
 
@@ -81,10 +125,21 @@ My research centers on **efficient** and **generalized** deep learning. Numbers 
 </div>
 </div>
 
-<div class='paper-box' id='pub-3'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="mindthegap" width="100%"></div></div>
+<div class='paper-box' id='pub-7'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="dd-survey" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[3]** [Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch](https://arxiv.org/pdf/2503.13227.pdf)
+**[7]** [Dataset Distillation in the Era of Large-Scale Data: Methods, Analysis, and Future Directions](https://www.techrxiv.org/users/923195/articles/1295079-dataset-distillation-in-the-era-of-large-scale-data-methods-analysis-and-future-directions)
+
+**Xinyi Shang**, Peng Sun, Zhiqiang Shen, Tao Lin, Jing-Hao Xue.
+
+- We identify four significant shifts in the field of dataset distillation and provide the first comprehensive, stage-wise review through the dataset-distillation pipeline.
+</div>
+</div>
+
+<div class='paper-box' id='pub-8'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="mindthegap" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[8]** [Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch](https://arxiv.org/pdf/2503.13227.pdf)
 
 Yijie Liu, **Xinyi Shang**, Yiqun Zhang, Yang Lu<sup>†</sup>, Chen Gong, Jing-Hao Xue, Hanzi Wang.
 
@@ -92,10 +147,10 @@ Yijie Liu, **Xinyi Shang**, Yiqun Zhang, Yang Lu<sup>†</sup>, Chen Gong, Jing-
 </div>
 </div>
 
-<div class='paper-box' id='pub-4'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/500x300.png' alt="gift" width="100%"></div></div>
+<div class='paper-box' id='pub-9'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/500x300.png' alt="gift" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[4]** [GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost](https://arxiv.org/pdf/2405.14736) \| [[code]](https://github.com/LINs-lab/GIFT)
+**[9]** [GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost](https://arxiv.org/pdf/2405.14736) \| [[code]](https://github.com/LINs-lab/GIFT)
 
 **Xinyi Shang<sup>*</sup>**, Peng Sun<sup>*</sup>, Tao Lin<sup>†</sup>.
 
@@ -103,10 +158,10 @@ Yijie Liu, **Xinyi Shang**, Yiqun Zhang, Yang Lu<sup>†</sup>, Chen Gong, Jing-
 </div>
 </div>
 
-<div class='paper-box' id='pub-5'><div class='paper-box-image'><div><div class="badge">ICLRW 2024 DMLR</div><img src='images/500x300.png' alt="infocomp" width="100%"></div></div>
+<div class='paper-box' id='pub-10'><div class='paper-box-image'><div><div class="badge">ICLRW 2024 DMLR</div><img src='images/500x300.png' alt="infocomp" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[5]** [Information Compensation: A Fix for Any-scale Dataset Distillation](https://openreview.net/forum?id=2SnmKd1JK4)
+**[10]** [Information Compensation: A Fix for Any-scale Dataset Distillation](https://openreview.net/forum?id=2SnmKd1JK4)
 
 Peng Sun, Bei Shi, **Xinyi Shang**, Tao Lin<sup>†</sup>.
 
@@ -114,10 +169,10 @@ Peng Sun, Bei Shi, **Xinyi Shang**, Tao Lin<sup>†</sup>.
 </div>
 </div>
 
-<div class='paper-box' id='pub-6'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/500x300.png' alt="fedetf" width="100%"></div></div>
+<div class='paper-box' id='pub-11'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/500x300.png' alt="fedetf" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[6]** [No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier](https://arxiv.org/pdf/2303.10058.pdf) \| [[code]](https://github.com/ZexiLee/ICCV-2023-FedETF)
+**[11]** [No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier](https://arxiv.org/pdf/2303.10058.pdf) \| [[code]](https://github.com/ZexiLee/ICCV-2023-FedETF)
 
 Zexi Li, **Xinyi Shang**, Rui He, Tao Lin<sup>†</sup>, Chao Wu<sup>†</sup>.
 
@@ -125,10 +180,10 @@ Zexi Li, **Xinyi Shang**, Rui He, Tao Lin<sup>†</sup>, Chao Wu<sup>†</sup>.
 </div>
 </div>
 
-<div class='paper-box' id='pub-7'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/500x300.png' alt="fedlaw" width="100%"></div></div>
+<div class='paper-box' id='pub-12'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/500x300.png' alt="fedlaw" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[7]** [Understanding the Training Dynamics in Federated Deep Learning via Aggregation Weight Optimization](https://arxiv.org/pdf/2302.10911.pdf) \| [[code]](https://github.com/ZexiLee/ICML-2023-FedLAW)
+**[12]** [Understanding the Training Dynamics in Federated Deep Learning via Aggregation Weight Optimization](https://arxiv.org/pdf/2302.10911.pdf) \| [[code]](https://github.com/ZexiLee/ICML-2023-FedLAW)
 
 Zexi Li, Tao Lin<sup>†</sup>, **Xinyi Shang**, Chao Wu<sup>†</sup>.
 
@@ -136,10 +191,10 @@ Zexi Li, Tao Lin<sup>†</sup>, **Xinyi Shang**, Chao Wu<sup>†</sup>.
 </div>
 </div>
 
-<div class='paper-box' id='pub-8'><div class='paper-box-image'><div><div class="badge">ICME 2022 Oral</div><img src='images/500x300.png' alt="fedic" width="100%"></div></div>
+<div class='paper-box' id='pub-13'><div class='paper-box-image'><div><div class="badge">ICME 2022 Oral</div><img src='images/500x300.png' alt="fedic" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[8]** [FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation](https://arxiv.org/pdf/2205.00172.pdf) \| [[code]](https://github.com/shangxinyi/FEDIC)
+**[13]** [FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation](https://arxiv.org/pdf/2205.00172.pdf) \| [[code]](https://github.com/shangxinyi/FEDIC)
 
 **Xinyi Shang**, Yang Lu<sup>†</sup>, Yiu-ming Cheung, Hanzi Wang.
 
@@ -147,10 +202,10 @@ Zexi Li, Tao Lin<sup>†</sup>, **Xinyi Shang**, Chao Wu<sup>†</sup>.
 </div>
 </div>
 
-<div class='paper-box' id='pub-9'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/500x300.png' alt="creff" width="100%"></div></div>
+<div class='paper-box' id='pub-14'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/500x300.png' alt="creff" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[9]** [Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features](https://arxiv.org/pdf/2204.13399.pdf) \| [[code]](https://github.com/shangxinyi/CReFF-FL)
+**[14]** [Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features](https://arxiv.org/pdf/2204.13399.pdf) \| [[code]](https://github.com/shangxinyi/CReFF-FL)
 
 **Xinyi Shang**, Yang Lu<sup>†</sup>, Gang Huang, Hanzi Wang.
 
