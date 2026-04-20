@@ -119,7 +119,7 @@ Jiacheng Liu, Yaxin Luo, Jiacheng Cui, **Xinyi Shang**, Xiaohan Zhao, Zhiqiang S
 </div>
 </div>
 
-<div class='paper-box' id='pub-6'><div class='paper-box-image'><div><div class="badge">TAI 2026</div><img src='images/500x300.png' alt="fedssl-ah" width="100%"></div></div>
+<div class='paper-box' id='pub-6'><div class='paper-box-image'><div><div class="badge">TAI 2026</div><img src='images/fedssl-ah.png' alt="fedssl-ah" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[6]** [Federated Semi-Supervised Learning with Annotation Heterogeneity](https://arxiv.org/pdf/2303.02445.pdf)
@@ -141,7 +141,7 @@ Jiacheng Liu, Yaxin Luo, Jiacheng Cui, **Xinyi Shang**, Xiaohan Zhao, Zhiqiang S
 </div>
 </div>
 
-<div class='paper-box' id='pub-8'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="mindthegap" width="100%"></div></div>
+<div class='paper-box' id='pub-8'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/mindthegap.png' alt="mindthegap" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[8]** [Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch](https://arxiv.org/pdf/2503.13227.pdf)
@@ -152,7 +152,7 @@ Yijie Liu, **Xinyi Shang**, Yiqun Zhang, Yang Lu<sup>†</sup>, Chen Gong, Jing-
 </div>
 </div>
 
-<div class='paper-box' id='pub-9'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/500x300.png' alt="gift" width="100%"></div></div>
+<div class='paper-box' id='pub-9'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/gift.png' alt="gift" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[9]** [GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost](https://arxiv.org/pdf/2405.14736) \| [[code]](https://github.com/LINs-lab/GIFT)
@@ -163,7 +163,7 @@ Yijie Liu, **Xinyi Shang**, Yiqun Zhang, Yang Lu<sup>†</sup>, Chen Gong, Jing-
 </div>
 </div>
 
-<div class='paper-box' id='pub-10'><div class='paper-box-image'><div><div class="badge">ICLRW 2024 DMLR</div><img src='images/500x300.png' alt="infocomp" width="100%"></div></div>
+<div class='paper-box' id='pub-10'><div class='paper-box-image'><div><div class="badge">ICLRW 2024 DMLR</div><img src='images/infocomp.png' alt="infocomp" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[10]** [Information Compensation: A Fix for Any-scale Dataset Distillation](https://openreview.net/forum?id=2SnmKd1JK4)
@@ -174,7 +174,7 @@ Peng Sun, Bei Shi, **Xinyi Shang**, Tao Lin<sup>†</sup>.
 </div>
 </div>
 
-<div class='paper-box' id='pub-11'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/500x300.png' alt="fedetf" width="100%"></div></div>
+<div class='paper-box' id='pub-11'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/fedetf.png' alt="fedetf" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[11]** [No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier](https://arxiv.org/pdf/2303.10058.pdf) \| [[code]](https://github.com/ZexiLee/ICCV-2023-FedETF)
@@ -185,7 +185,7 @@ Zexi Li, **Xinyi Shang**, Rui He, Tao Lin<sup>†</sup>, Chao Wu<sup>†</sup>.
 </div>
 </div>
 
-<div class='paper-box' id='pub-12'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/500x300.png' alt="fedlaw" width="100%"></div></div>
+<div class='paper-box' id='pub-12'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/fedlaw.png' alt="fedlaw" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[12]** [Understanding the Training Dynamics in Federated Deep Learning via Aggregation Weight Optimization](https://arxiv.org/pdf/2302.10911.pdf) \| [[code]](https://github.com/ZexiLee/ICML-2023-FedLAW)
@@ -196,7 +196,7 @@ Zexi Li, Tao Lin<sup>†</sup>, **Xinyi Shang**, Chao Wu<sup>†</sup>.
 </div>
 </div>
 
-<div class='paper-box' id='pub-13'><div class='paper-box-image'><div><div class="badge">ICME 2022 Oral</div><img src='images/500x300.png' alt="fedic" width="100%"></div></div>
+<div class='paper-box' id='pub-13'><div class='paper-box-image'><div><div class="badge">ICME 2022 Oral</div><img src='images/fedic.png' alt="fedic" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[13]** [FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation](https://arxiv.org/pdf/2205.00172.pdf) \| [[code]](https://github.com/shangxinyi/FEDIC)
@@ -207,7 +207,7 @@ Zexi Li, Tao Lin<sup>†</sup>, **Xinyi Shang**, Chao Wu<sup>†</sup>.
 </div>
 </div>
 
-<div class='paper-box' id='pub-14'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/500x300.png' alt="creff" width="100%"></div></div>
+<div class='paper-box' id='pub-14'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/creff.png' alt="creff" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[14]** [Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features](https://arxiv.org/pdf/2204.13399.pdf) \| [[code]](https://github.com/shangxinyi/CReFF-FL)
