@@ -23,7 +23,7 @@ You can reach me at <a href="mailto:xinyi.shang.23@ucl.ac.uk">xinyi.shang.23@ucl
 
 
 # 🔥 News
-- *2026.04*: &nbsp;📄 We release a technical report *"A Systematic and Comprehensive Analysis of Claude Code"*. [[paper]](https://github.com/VILA-Lab/Dive-into-Claude-Code)
+- *2026.04*: &nbsp;📄 We release a technical report for *A Systematic and Comprehensive Analysis of Claude Code*. Paper at: [[Link]](https://github.com/VILA-Lab/Dive-into-Claude-Code)
 - *2026.02*: &nbsp;🎉 Two papers are accepted by **CVPR 2026**.
 - *2025.09*: &nbsp;Started as a **visiting student** at MBZUAI, supervised by [Prof. Zhiqiang Shen](https://zhiqiangshen.com/).
 - *2023.05*: &nbsp;🎉 Received the **Outstanding Master Thesis** Award.
