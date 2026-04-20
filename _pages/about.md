@@ -315,4 +315,34 @@ Zexi Li, Tao Lin<sup>†</sup>, **Xinyi Shang**, Chao Wu<sup>†</sup>.
     <div style="font-size: 0.8em; color: #888;">📍 Cappadocia 🇹🇷 · Jan 3, 2025</div>
   </div>
 
+  <div style="flex: 0 0 300px; scroll-snap-align: start;">
+    <img src="{{ '/images/20250102_istanbul.jpg' | relative_url }}" alt="istanbul" style="width: 300px; height: 200px; object-fit: cover; border-radius: 10px; display: block;">
+    <div style="font-size: 0.9em; margin-top: 6px;">🐦 Seagulls across the Bosphorus</div>
+    <div style="font-size: 0.8em; color: #888;">📍 Istanbul 🇹🇷 · Jan 2, 2025</div>
+  </div>
+
+  <div style="flex: 0 0 300px; scroll-snap-align: start;">
+    <img src="{{ '/images/20241108_london.jpg' | relative_url }}" alt="london" style="width: 300px; height: 200px; object-fit: cover; border-radius: 10px; display: block;">
+    <div style="font-size: 0.9em; margin-top: 6px;">✨ Christmas lights on Regent St.</div>
+    <div style="font-size: 0.8em; color: #888;">📍 London 🇬🇧 · Nov 8, 2024</div>
+  </div>
+
+  <div style="flex: 0 0 300px; scroll-snap-align: start;">
+    <img src="{{ '/images/20241015_yunnan.jpg' | relative_url }}" alt="yunnan" style="width: 300px; height: 200px; object-fit: cover; border-radius: 10px; display: block;">
+    <div style="font-size: 0.9em; margin-top: 6px;">🍵 Tea by the rice fields</div>
+    <div style="font-size: 0.8em; color: #888;">📍 Yunnan 🇨🇳 · Oct 15, 2024</div>
+  </div>
+
+  <div style="flex: 0 0 300px; scroll-snap-align: start;">
+    <img src="{{ '/images/20240702_flight_hangzhou.jpg' | relative_url }}" alt="flight hangzhou" style="width: 300px; height: 200px; object-fit: cover; border-radius: 10px; display: block;">
+    <div style="font-size: 0.9em; margin-top: 6px;">☁️ Sunset above the clouds</div>
+    <div style="font-size: 0.8em; color: #888;">📍 En route to Hangzhou 🇨🇳 · Jul 2, 2024</div>
+  </div>
+
+  <div style="flex: 0 0 300px; scroll-snap-align: start;">
+    <img src="{{ '/images/20240630_xinjiang.jpg' | relative_url }}" alt="xinjiang" style="width: 300px; height: 200px; object-fit: cover; border-radius: 10px; display: block;">
+    <div style="font-size: 0.9em; margin-top: 6px;">🐎 Horses on alpine meadows</div>
+    <div style="font-size: 0.8em; color: #888;">📍 Xinjiang 🇨🇳 · Jun 30, 2024</div>
+  </div>
+
 </div>
