@@ -268,3 +268,16 @@ Zexi Li, Tao Lin<sup>†</sup>, **Xinyi Shang**, Chao Wu<sup>†</sup>.
 - [Cooking and Bakery](/files/bakery.pdf) — I hope I will own my bakery one day.
 - [Drawing](/files/drawing.pdf).
 - Photography and keeping journals.
+
+# 📸 Journey
+
+<div style="display: flex; gap: 12px; overflow-x: auto; padding: 10px 2px 18px; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; cursor: grab;">
+  <div style="flex: 0 0 300px; height: 200px; scroll-snap-align: start; border-radius: 10px; background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); display: flex; align-items: center; justify-content: center; color: rgba(0,0,0,0.55); font-size: 0.95em; font-weight: 500;">Photo 1</div>
+  <div style="flex: 0 0 300px; height: 200px; scroll-snap-align: start; border-radius: 10px; background: linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%); display: flex; align-items: center; justify-content: center; color: rgba(0,0,0,0.55); font-size: 0.95em; font-weight: 500;">Photo 2</div>
+  <div style="flex: 0 0 300px; height: 200px; scroll-snap-align: start; border-radius: 10px; background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); display: flex; align-items: center; justify-content: center; color: rgba(0,0,0,0.55); font-size: 0.95em; font-weight: 500;">Photo 3</div>
+  <div style="flex: 0 0 300px; height: 200px; scroll-snap-align: start; border-radius: 10px; background: linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%); display: flex; align-items: center; justify-content: center; color: rgba(0,0,0,0.55); font-size: 0.95em; font-weight: 500;">Photo 4</div>
+  <div style="flex: 0 0 300px; height: 200px; scroll-snap-align: start; border-radius: 10px; background: linear-gradient(135deg, #d299c2 0%, #fef9d7 100%); display: flex; align-items: center; justify-content: center; color: rgba(0,0,0,0.55); font-size: 0.95em; font-weight: 500;">Photo 5</div>
+  <div style="flex: 0 0 300px; height: 200px; scroll-snap-align: start; border-radius: 10px; background: linear-gradient(135deg, #c2e9fb 0%, #a1c4fd 100%); display: flex; align-items: center; justify-content: center; color: rgba(0,0,0,0.55); font-size: 0.95em; font-weight: 500;">Photo 6</div>
+  <div style="flex: 0 0 300px; height: 200px; scroll-snap-align: start; border-radius: 10px; background: linear-gradient(135deg, #ffd3a5 0%, #fd6585 100%); display: flex; align-items: center; justify-content: center; color: rgba(0,0,0,0.55); font-size: 0.95em; font-weight: 500;">Photo 7</div>
+  <div style="flex: 0 0 300px; height: 200px; scroll-snap-align: start; border-radius: 10px; background: linear-gradient(135deg, #f6d365 0%, #fda085 100%); display: flex; align-items: center; justify-content: center; color: rgba(0,0,0,0.55); font-size: 0.95em; font-weight: 500;">Photo 8</div>
+</div>
