@@ -345,4 +345,28 @@ Zexi Li, Tao Lin<sup>†</sup>, **Xinyi Shang**, Chao Wu<sup>†</sup>.
     <div style="font-size: 0.8em; color: #888;">📍 Xinjiang 🇨🇳 · Jun 30, 2024</div>
   </div>
 
+  <div style="flex: 0 0 300px; scroll-snap-align: start;">
+    <img src="{{ '/images/20240525_durdle_door.jpg' | relative_url }}" alt="durdle door" style="width: 300px; height: 200px; object-fit: cover; border-radius: 10px; display: block;">
+    <div style="font-size: 0.9em; margin-top: 6px;">🏝️ Durdle Door arch on the Jurassic Coast</div>
+    <div style="font-size: 0.8em; color: #888;">📍 Dorset 🇬🇧 · May 25, 2024</div>
+  </div>
+
+  <div style="flex: 0 0 300px; scroll-snap-align: start;">
+    <img src="{{ '/images/20240511_london.jpg' | relative_url }}" alt="london aurora" style="width: 300px; height: 200px; object-fit: cover; border-radius: 10px; display: block;">
+    <div style="font-size: 0.9em; margin-top: 6px;">🌌 Aurora over London</div>
+    <div style="font-size: 0.8em; color: #888;">📍 London 🇬🇧 · May 11, 2024</div>
+  </div>
+
+  <div style="flex: 0 0 300px; scroll-snap-align: start;">
+    <img src="{{ '/images/20231227_edinburgh.jpg' | relative_url }}" alt="edinburgh" style="width: 300px; height: 200px; object-fit: cover; border-radius: 10px; display: block;">
+    <div style="font-size: 0.9em; margin-top: 6px;">🌕 Moonrise over Edinburgh</div>
+    <div style="font-size: 0.8em; color: #888;">📍 Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿 · Dec 27, 2023</div>
+  </div>
+
+  <div style="flex: 0 0 300px; scroll-snap-align: start;">
+    <img src="{{ '/images/20231225_scotland.jpg' | relative_url }}" alt="neist point" style="width: 300px; height: 200px; object-fit: cover; border-radius: 10px; display: block;">
+    <div style="font-size: 0.9em; margin-top: 6px;">🗼 Neist Point lighthouse on Skye</div>
+    <div style="font-size: 0.8em; color: #888;">📍 Isle of Skye 🏴󠁧󠁢󠁳󠁣󠁴󠁿 · Dec 25, 2023</div>
+  </div>
+
 </div>
