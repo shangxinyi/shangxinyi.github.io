@@ -276,13 +276,13 @@ Zexi Li, Tao Lin<sup>†</sup>, **Xinyi Shang**, Chao Wu<sup>†</sup>.
   <div style="flex: 0 0 300px; scroll-snap-align: start;">
     <img src="{{ '/images/milkyway_sunset.jpg' | relative_url }}" alt="sunset" style="width: 300px; height: 200px; object-fit: cover; border-radius: 10px; display: block;">
     <div style="font-size: 0.9em; margin-top: 6px;">🌅 Sunset over the dunes</div>
-    <div style="font-size: 0.8em; color: #888;">📍 Milky Way Spot (Abu Dhabi)</div>
+    <div style="font-size: 0.8em; color: #888;">📍 Milky Way Spot (Abu Dhabi) · Apr 19, 2026</div>
   </div>
 
   <div style="flex: 0 0 300px; scroll-snap-align: start;">
     <img src="{{ '/images/milkyway_stars.jpg' | relative_url }}" alt="stars" style="width: 300px; height: 200px; object-fit: cover; border-radius: 10px; display: block;">
     <div style="font-size: 0.9em; margin-top: 6px;">✨ A sky full of stars</div>
-    <div style="font-size: 0.8em; color: #888;">📍 Milky Way Spot (Abu Dhabi)</div>
+    <div style="font-size: 0.8em; color: #888;">📍 Milky Way Spot (Abu Dhabi) · Apr 19, 2026</div>
   </div>
 
   <div style="flex: 0 0 300px; height: 200px; scroll-snap-align: start; border-radius: 10px; background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); display: flex; align-items: center; justify-content: center; color: rgba(0,0,0,0.55); font-size: 0.95em; font-weight: 500;">Photo 3</div>
