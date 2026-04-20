@@ -23,10 +23,11 @@ You can reach me at <a href="mailto:xinyi.shang.23@ucl.ac.uk">xinyi.shang.23@ucl
 
 
 # 🔥 News
+- *2026.04*: &nbsp;📄 We release a technical report *"A Systematic and Comprehensive Analysis of Claude Code"*. [[paper]](https://github.com/VILA-Lab/Dive-into-Claude-Code)
 - *2026.02*: &nbsp;🎉 Two papers are accepted by **CVPR 2026**.
 - *2025.09*: &nbsp;Started as a **visiting student** at MBZUAI, supervised by [Prof. Zhiqiang Shen](https://zhiqiangshen.com/).
 - *2023.05*: &nbsp;🎉 Received the **Outstanding Master Thesis** Award.
-- *2023.03*: &nbsp;🎉 Received the PhD offer from **University College London (UCL)**, supported by scholarship!
+- *2023.03*: &nbsp;🎉 Received the PhD offer from **University College London (UCL)**, supported by full scholarship!
 - *2022.11*: &nbsp;Started a research internship at Westlake University, supervised by [Prof. Tao Lin](https://tlin-taolin.github.io/).
 - *2022.09*: &nbsp;Awarded the China National Scholarship.
 - *2022.04*: &nbsp;One IJCAI paper is accepted.
