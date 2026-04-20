@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello~ I am Xinyi, a Ph.D. candidate at University College London (UCL), luckily supervised by [Prof. Jing-Hao Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). Before that, I received my master's degree with honors in Computer Technology from Xiamen University (XMU), fortunately supervised by [Dr. Yang Lu](https://jasonyanglu.github.io/).
+Hello~ I am Xinyi, a Ph.D. candidate at University College London (UCL), luckily supervised by [Prof. Jing-Hao Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). Before that, I received my master's degree with honors from Xiamen University (XMU), fortunately supervised by [Dr. Yang Lu](https://jasonyanglu.github.io/).
 
 You can reach me at <a href="mailto:xinyi.shang.23@ucl.ac.uk">xinyi.shang.23@ucl.ac.uk</a>, or find my publications on <a href='https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ'>Google Scholar</a> <a href='https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
@@ -27,8 +27,8 @@ You can reach me at <a href="mailto:xinyi.shang.23@ucl.ac.uk">xinyi.shang.23@ucl
 - *2023.03*: &nbsp;🎉 Received the PhD offer from **University College London (UCL)**, supported by scholarship!
 - *2022.11*: &nbsp;Started a research internship at Westlake University, supervised by [Prof. Tao Lin](https://tlin-taolin.github.io/).
 - *2022.09*: &nbsp;Awarded the China National Scholarship.
-- *2022.04*: &nbsp;One IJCAI paper *"Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features"* is accepted.
-- *2022.03*: &nbsp;One ICME paper *"FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation"* is accepted as oral.
+- *2022.04*: &nbsp;One IJCAI paper is accepted.
+- *2022.03*: &nbsp;One ICME paper is accepted as oral.
 
 # 🎯 Research Interests
 
