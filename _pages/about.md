@@ -276,20 +276,43 @@ Zexi Li, Tao Lin<sup>†</sup>, **Xinyi Shang**, Chao Wu<sup>†</sup>.
   <div style="flex: 0 0 300px; scroll-snap-align: start;">
     <img src="{{ '/images/milkyway_sunset.jpg' | relative_url }}" alt="sunset" style="width: 300px; height: 200px; object-fit: cover; border-radius: 10px; display: block;">
     <div style="font-size: 0.9em; margin-top: 6px;">🌅 Sunset over the dunes</div>
-    <div style="font-size: 0.8em; color: #888;">📍 Milky Way Spot (Abu Dhabi) · Apr 19, 2026</div>
+    <div style="font-size: 0.8em; color: #888;">📍 Milky Way Spot, Abu Dhabi 🇦🇪 · Apr 19, 2026</div>
   </div>
 
   <div style="flex: 0 0 300px; scroll-snap-align: start;">
     <img src="{{ '/images/milkyway_stars.jpg' | relative_url }}" alt="stars" style="width: 300px; height: 200px; object-fit: cover; border-radius: 10px; display: block;">
     <div style="font-size: 0.9em; margin-top: 6px;">✨ A sky full of stars</div>
-    <div style="font-size: 0.8em; color: #888;">📍 Milky Way Spot (Abu Dhabi) · Apr 19, 2026</div>
+    <div style="font-size: 0.8em; color: #888;">📍 Milky Way Spot, Abu Dhabi 🇦🇪 · Apr 19, 2026</div>
   </div>
 
-  <div style="flex: 0 0 300px; height: 200px; scroll-snap-align: start; border-radius: 10px; background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); display: flex; align-items: center; justify-content: center; color: rgba(0,0,0,0.55); font-size: 0.95em; font-weight: 500;">Photo 3</div>
-  <div style="flex: 0 0 300px; height: 200px; scroll-snap-align: start; border-radius: 10px; background: linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%); display: flex; align-items: center; justify-content: center; color: rgba(0,0,0,0.55); font-size: 0.95em; font-weight: 500;">Photo 4</div>
-  <div style="flex: 0 0 300px; height: 200px; scroll-snap-align: start; border-radius: 10px; background: linear-gradient(135deg, #d299c2 0%, #fef9d7 100%); display: flex; align-items: center; justify-content: center; color: rgba(0,0,0,0.55); font-size: 0.95em; font-weight: 500;">Photo 5</div>
-  <div style="flex: 0 0 300px; height: 200px; scroll-snap-align: start; border-radius: 10px; background: linear-gradient(135deg, #c2e9fb 0%, #a1c4fd 100%); display: flex; align-items: center; justify-content: center; color: rgba(0,0,0,0.55); font-size: 0.95em; font-weight: 500;">Photo 6</div>
-  <div style="flex: 0 0 300px; height: 200px; scroll-snap-align: start; border-radius: 10px; background: linear-gradient(135deg, #ffd3a5 0%, #fd6585 100%); display: flex; align-items: center; justify-content: center; color: rgba(0,0,0,0.55); font-size: 0.95em; font-weight: 500;">Photo 7</div>
-  <div style="flex: 0 0 300px; height: 200px; scroll-snap-align: start; border-radius: 10px; background: linear-gradient(135deg, #f6d365 0%, #fda085 100%); display: flex; align-items: center; justify-content: center; color: rgba(0,0,0,0.55); font-size: 0.95em; font-weight: 500;">Photo 8</div>
+  <div style="flex: 0 0 300px; scroll-snap-align: start;">
+    <img src="{{ '/images/20260319_thailand_similan.jpg' | relative_url }}" alt="similan" style="width: 300px; height: 200px; object-fit: cover; border-radius: 10px; display: block;">
+    <div style="font-size: 0.9em; margin-top: 6px;">🚤 Crystal waters of Similan</div>
+    <div style="font-size: 0.8em; color: #888;">📍 Similan Islands 🇹🇭 · Mar 19, 2026</div>
+  </div>
+
+  <div style="flex: 0 0 300px; scroll-snap-align: start;">
+    <img src="{{ '/images/20250929_muscat.jpg' | relative_url }}" alt="muscat" style="width: 300px; height: 200px; object-fit: cover; border-radius: 10px; display: block;">
+    <div style="font-size: 0.9em; margin-top: 6px;">🏖️ Turquoise sea &amp; desert cliffs</div>
+    <div style="font-size: 0.8em; color: #888;">📍 Muscat 🇴🇲 · Sep 29, 2025</div>
+  </div>
+
+  <div style="flex: 0 0 300px; scroll-snap-align: start;">
+    <img src="{{ '/images/20250427_singapore.jpg' | relative_url }}" alt="singapore" style="width: 300px; height: 200px; object-fit: cover; border-radius: 10px; display: block;">
+    <div style="font-size: 0.9em; margin-top: 6px;">🌳 Supertrees after dark</div>
+    <div style="font-size: 0.8em; color: #888;">📍 Singapore 🇸🇬 · Apr 27, 2025</div>
+  </div>
+
+  <div style="flex: 0 0 300px; scroll-snap-align: start;">
+    <img src="{{ '/images/20250106_antalya.jpg' | relative_url }}" alt="antalya" style="width: 300px; height: 200px; object-fit: cover; border-radius: 10px; display: block;">
+    <div style="font-size: 0.9em; margin-top: 6px;">🏔️ Snow peaks across the bay</div>
+    <div style="font-size: 0.8em; color: #888;">📍 Antalya 🇹🇷 · Jan 6, 2025</div>
+  </div>
+
+  <div style="flex: 0 0 300px; scroll-snap-align: start;">
+    <img src="{{ '/images/20250103_cappadocia.jpg' | relative_url }}" alt="cappadocia" style="width: 300px; height: 200px; object-fit: cover; border-radius: 10px; display: block;">
+    <div style="font-size: 0.9em; margin-top: 6px;">🎈 Balloons at sunrise</div>
+    <div style="font-size: 0.8em; color: #888;">📍 Cappadocia 🇹🇷 · Jan 3, 2025</div>
+  </div>
 
 </div>
