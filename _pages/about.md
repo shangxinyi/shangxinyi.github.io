@@ -253,8 +253,8 @@ Zexi Li, Tao Lin<sup>†</sup>, **Xinyi Shang**, Chao Wu<sup>†</sup>.
 
 # 💻 Research Experience
 - *2025.09 - Present*, Research Intern, [VILA Lab](https://github.com/VILA-Lab), Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), supervised by [Prof. Zhiqiang Shen](https://zhiqiangshen.com/).
-- *2022.11 - 2023.09*, Research Intern, [LINs Lab](https://lins-lab.github.io/), Westlake University, supervised by [Prof. Tao Lin](https://tlin-taolin.github.io/). *Decentralized deep learning.*
-- *2022.06 - 2022.09*, Research Intern, MARS Lab, Wuhan University, supervised by [Prof. Mang Ye](https://marswhu.github.io/). *Federated learning.*
+- *2022.11 - 2023.09*, Research Intern, [LINs Lab](https://lins-lab.github.io/), Westlake University, supervised by [Prof. Tao Lin](https://tlin-taolin.github.io/).
+- *2022.06 - 2022.09*, Research Intern, MARS Lab, Wuhan University, supervised by [Prof. Mang Ye](https://marswhu.github.io/).
 
 # 🤝 Academic Service
 - **Conference Reviewer:** ECCV 2026, KDD 2026, ICML 2026, CVPR 2026, ICLR 2026, NeurIPS 2025, ICCV 2025, ICLR 2025, CVPR 2025, WACV 2025, IJCAI 2024.
@@ -266,18 +266,30 @@ Zexi Li, Tao Lin<sup>†</sup>, **Xinyi Shang**, Chao Wu<sup>†</sup>.
 
 # 🎨 Hobbies
 - [Cooking and Bakery](/files/bakery.pdf) — I hope I will own my bakery one day.
-- [Drawing](/files/drawing.pdf).
+- Drawing.
 - Photography and keeping journals.
 
 # 📸 Journey
 
-<div style="display: flex; gap: 12px; overflow-x: auto; padding: 10px 2px 18px; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; cursor: grab;">
-  <div style="flex: 0 0 300px; height: 200px; scroll-snap-align: start; border-radius: 10px; background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); display: flex; align-items: center; justify-content: center; color: rgba(0,0,0,0.55); font-size: 0.95em; font-weight: 500;">Photo 1</div>
-  <div style="flex: 0 0 300px; height: 200px; scroll-snap-align: start; border-radius: 10px; background: linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%); display: flex; align-items: center; justify-content: center; color: rgba(0,0,0,0.55); font-size: 0.95em; font-weight: 500;">Photo 2</div>
+<div style="display: flex; gap: 14px; overflow-x: auto; padding: 10px 2px 20px; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; cursor: grab;">
+
+  <div style="flex: 0 0 300px; scroll-snap-align: start;">
+    <img src="{{ '/images/milkyway_sunset.jpg' | relative_url }}" alt="sunset" style="width: 300px; height: 200px; object-fit: cover; border-radius: 10px; display: block;">
+    <div style="font-size: 0.9em; margin-top: 6px;">🌅 Sunset over the dunes</div>
+    <div style="font-size: 0.8em; color: #888;">📍 Milky Way Spot (Abu Dhabi)</div>
+  </div>
+
+  <div style="flex: 0 0 300px; scroll-snap-align: start;">
+    <img src="{{ '/images/milkyway_stars.jpg' | relative_url }}" alt="stars" style="width: 300px; height: 200px; object-fit: cover; border-radius: 10px; display: block;">
+    <div style="font-size: 0.9em; margin-top: 6px;">✨ A sky full of stars</div>
+    <div style="font-size: 0.8em; color: #888;">📍 Milky Way Spot (Abu Dhabi)</div>
+  </div>
+
   <div style="flex: 0 0 300px; height: 200px; scroll-snap-align: start; border-radius: 10px; background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); display: flex; align-items: center; justify-content: center; color: rgba(0,0,0,0.55); font-size: 0.95em; font-weight: 500;">Photo 3</div>
   <div style="flex: 0 0 300px; height: 200px; scroll-snap-align: start; border-radius: 10px; background: linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%); display: flex; align-items: center; justify-content: center; color: rgba(0,0,0,0.55); font-size: 0.95em; font-weight: 500;">Photo 4</div>
   <div style="flex: 0 0 300px; height: 200px; scroll-snap-align: start; border-radius: 10px; background: linear-gradient(135deg, #d299c2 0%, #fef9d7 100%); display: flex; align-items: center; justify-content: center; color: rgba(0,0,0,0.55); font-size: 0.95em; font-weight: 500;">Photo 5</div>
   <div style="flex: 0 0 300px; height: 200px; scroll-snap-align: start; border-radius: 10px; background: linear-gradient(135deg, #c2e9fb 0%, #a1c4fd 100%); display: flex; align-items: center; justify-content: center; color: rgba(0,0,0,0.55); font-size: 0.95em; font-weight: 500;">Photo 6</div>
   <div style="flex: 0 0 300px; height: 200px; scroll-snap-align: start; border-radius: 10px; background: linear-gradient(135deg, #ffd3a5 0%, #fd6585 100%); display: flex; align-items: center; justify-content: center; color: rgba(0,0,0,0.55); font-size: 0.95em; font-weight: 500;">Photo 7</div>
   <div style="flex: 0 0 300px; height: 200px; scroll-snap-align: start; border-radius: 10px; background: linear-gradient(135deg, #f6d365 0%, #fda085 100%); display: flex; align-items: center; justify-content: center; color: rgba(0,0,0,0.55); font-size: 0.95em; font-weight: 500;">Photo 8</div>
+
 </div>
