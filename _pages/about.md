@@ -45,9 +45,9 @@ You can reach me at <a href="mailto:xinyi.shang.23@ucl.ac.uk">xinyi.shang.23@ucl
 My research centers on **efficient** and **generalized** deep learning, with recent interests extending to **foundation models and generative AI**. Numbers in brackets link to the corresponding entries in [Publications](#-publications) below.
 
 - **Foundation Models & Generative AI.** Studying the design and safety of AI agent systems, pushing vision–language understanding to finer-grained semantics, and making generative modeling faster and more scalable.
-  - *AI agent analysis & defense:* understanding Claude Code's design space [[1](#pub-1)] and defending against GUI agents via cognitive-gap CAPTCHAs [[3](#pub-3)].
+  - *Efficient generative modeling:* fast, scalable analytical diffusion [[3](#pub-3)] and one-step generation via duality [[4](#pub-4)].
+  - *AI agent analysis & defense:* understanding Claude Code's design space [[1](#pub-1)] and defending against GUI agents via cognitive-gap CAPTCHAs [[5](#pub-5)].
   - *Vision–language understanding:* semantic, pixel-level image tampering detection beyond masks [[2](#pub-2)].
-  - *Efficient generative modeling:* fast, scalable analytical diffusion [[4](#pub-4)] and one-step generation via duality [[5](#pub-5)].
 
 - **Efficient Deep Learning.** Compressing large datasets into compact, informative subsets, and identifying which data most effectively drives training efficiency.
   - *Scalable distillation:* methods scaling from CIFAR-10 to ImageNet-1K [[10](#pub-10)].
@@ -86,21 +86,10 @@ Jiacheng Liu, Xiaohan Zhao, **Xinyi Shang**, Zhiqiang Shen.
 </div>
 </div>
 
-<div class='paper-box' id='pub-3'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="captchas" width="100%"></div></div>
+<div class='paper-box' id='pub-3'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="golddiff" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[3]** [Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense](https://arxiv.org/pdf/2602.09012)
-
-Jiacheng Liu, Yaxin Luo, Jiacheng Cui, **Xinyi Shang**, Xiaohan Zhao, Zhiqiang Shen.
-
-- A scalable CAPTCHA framework that exploits human–AI cognitive gaps to defend against advanced GUI agents via dynamic, adaptive intuitive-reasoning tasks.
-</div>
-</div>
-
-<div class='paper-box' id='pub-4'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="golddiff" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[4]** [Fast and Scalable Analytical Diffusion](https://arxiv.org/pdf/2602.16498)
+**[3]** [Fast and Scalable Analytical Diffusion](https://arxiv.org/pdf/2602.16498)
 
 **Xinyi Shang**, Peng Sun, Jingyu Lin, Zhiqiang Shen.
 
@@ -108,14 +97,25 @@ Jiacheng Liu, Yaxin Luo, Jiacheng Cui, **Xinyi Shang**, Xiaohan Zhao, Zhiqiang S
 </div>
 </div>
 
-<div class='paper-box' id='pub-5'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="duality" width="100%"></div></div>
+<div class='paper-box' id='pub-4'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="duality" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[5]** [Duality Models: An Embarrassingly Simple One-step Generation Paradigm](https://arxiv.org/pdf/2602.17682)
+**[4]** [Duality Models: An Embarrassingly Simple One-step Generation Paradigm](https://arxiv.org/pdf/2602.17682)
 
 Peng Sun, **Xinyi Shang**, Tao Lin, Zhiqiang Shen.
 
 - A one-input-dual-output framework that jointly predicts velocity and flow-map from a shared backbone, enabling efficient two-step image generation with state-of-the-art results on ImageNet 256×256.
+</div>
+</div>
+
+<div class='paper-box' id='pub-5'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="captchas" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[5]** [Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense](https://arxiv.org/pdf/2602.09012)
+
+Jiacheng Liu, Yaxin Luo, Jiacheng Cui, **Xinyi Shang**, Xiaohan Zhao, Zhiqiang Shen.
+
+- A scalable CAPTCHA framework that exploits human–AI cognitive gaps to defend against advanced GUI agents via dynamic, adaptive intuitive-reasoning tasks.
 </div>
 </div>
 
