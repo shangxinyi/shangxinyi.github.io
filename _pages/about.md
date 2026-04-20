@@ -64,7 +64,7 @@ My research centers on **efficient** and **generalized** deep learning, with rec
 
 <sub><em><sup>*</sup> denotes equal contribution; <sup>†</sup> denotes corresponding author.</em></sub>
 
-<div class='paper-box' id='pub-1'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="claudecode" width="100%"></div></div>
+<div class='paper-box' id='pub-1'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/claudecode.png' alt="claudecode" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[1]** [Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://arxiv.org/pdf/2604.14228) \| [[code]](https://github.com/VILA-Lab/Dive-into-Claude-Code)
