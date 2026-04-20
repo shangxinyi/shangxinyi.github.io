@@ -71,7 +71,7 @@ My research centers on **efficient** and **generalized** deep learning, with rec
 
 Jiacheng Liu, Xiaohan Zhao, **Xinyi Shang**, Zhiqiang Shen.
 
-- A technical report analyzing Claude Code's architecture as an agentic coding tool, identifying five core human values and thirteen design principles that guide its implementation.
+- A comprehensive source-level architectural analysis of Claude Code (v2.1.88, ~1,900 TypeScript files, ~512K lines of code), combined with a curated collection of community analyses, a design-space guide for agent builders, and cross-system comparisons.
 </div>
 </div>
 
@@ -80,7 +80,7 @@ Jiacheng Liu, Xiaohan Zhao, **Xinyi Shang**, Zhiqiang Shen.
 
 **[2]** [From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering](https://arxiv.org/pdf/2603.20193)
 
-**Xinyi Shang**, Yi Tang, Jiacheng Cui, Ahmed Elhagry, Salwa K. Al Khatib, Sondos Mahmoud Bsharat, Jiacheng Liu, Xiaohan Zhao, Jing-Hao Xue, Hao Li, Salman Khan, Zhiqiang Shen.
+**Xinyi Shang<sup>*</sup>**, Yi Tang<sup>*</sup>, Jiacheng Cui<sup>*</sup>, Ahmed Elhagry, Salwa K. Al Khatib, Sondos Mahmoud Bsharat, Jiacheng Liu, Xiaohan Zhao, Jing-Hao Xue, Hao Li, Salman Khan, Zhiqiang Shen.
 
 - We move VLM-based image tampering detection from coarse mask-based annotations to pixel-level detection with semantic understanding, introducing a new taxonomy, benchmark, and evaluation metrics.
 </div>
