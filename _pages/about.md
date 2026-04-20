@@ -19,9 +19,9 @@ redirect_from:
 
 Hi~ I'm Xinyi, a Ph.D. candidate at University College London (UCL), fortunate to be supervised by [Prof. Jing-Hao Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). Before UCL, I received my master's degree with honors from Xiamen University (XMU) under the wonderful guidance of [Prof. Yang Lu](https://jasonyanglu.github.io/).
 
-I'm currently a visiting student at MBZUAI, supervised by [Prof. Zhiqiang Shen](https://zhiqiangshen.com/). I've also been lucky to spend time as a research intern at Westlake University with [Prof. Tao Lin](https://tlin-taolin.github.io/), and at Wuhan University with [Prof. Mang Ye](https://marswhu.github.io/). I'm especially grateful to my long-term collaborators, [Peng Sun](https://scholar.google.com/citations?user=-8XvRRIAAAAJ&hl=zh-CN) at Westlake University & Zhejiang University, and Jingyu Lin at Monash University, whose friendship and shared curiosity make research truly wonderful and joyful.
+I'm currently a visiting student at MBZUAI, fortunate to be supervised by [Prof. Zhiqiang Shen](https://zhiqiangshen.com/), and I've truly been enjoying my time in Abu Dhabi. I've also been lucky to spend time as a research intern at Westlake University with [Prof. Tao Lin](https://tlin-taolin.github.io/), and at Wuhan University with [Prof. Mang Ye](https://marswhu.github.io/). I'm especially grateful to my long-term collaborators, [Peng Sun](https://scholar.google.com/citations?user=-8XvRRIAAAAJ&hl=zh-CN) at Westlake University & Zhejiang University, and [Jingyu Lin](https://openreview.net/profile?id=%7EJingyu_Lin5) at Monash University, whose friendship and shared curiosity make research truly wonderful and joyful.
 
-Last but not least, a heartfelt thank-you to my three cats, for their unwavering company throughout my Ph.D. journey. 🐾
+Last but not least, a heartfelt thank-you to my three ragdoll cats, 🍉 (xixi), 🧃 (zhizhi), and 🥥 (yeye), for their unwavering company throughout my Ph.D. journey. 🐾
 
 
 You can reach me at <a href="mailto:xinyi.shang.23@ucl.ac.uk">xinyi.shang.23@ucl.ac.uk</a>, and find my publications on <a href='https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ'>Google Scholar</a> <a href='https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
@@ -32,90 +32,57 @@ You can reach me at <a href="mailto:xinyi.shang.23@ucl.ac.uk">xinyi.shang.23@ucl
 - *2026.04*: &nbsp;🎉 One paper is accepted by **ACL 2026 (main)**.
 - *2026.02*: &nbsp;🎉 Two papers are accepted by **CVPR 2026**.
 - *2025.09*: &nbsp;Started as a **visiting student** at MBZUAI, supervised by [Prof. Zhiqiang Shen](https://zhiqiangshen.com/).
+- *2025.02*: &nbsp;🎉 One paper is accepted by **CVPR 2025**.
+- *2025.01*: &nbsp;🎉 One paper is accepted by **ICLR 2025**.
 - *2023.05*: &nbsp;🎉 Received the **Outstanding Master Thesis** Award.
-- *2023.03*: &nbsp;🎉 Received the PhD offer from **University College London (UCL)**, supported by full scholarship!
-- *2022.11*: &nbsp;Started a research internship at Westlake University, supervised by [Prof. Tao Lin](https://tlin-taolin.github.io/).
+- *2023.03*: &nbsp;🎉 Received the **PhD offer** from University College London (UCL), supported by full scholarship!
 - *2022.09*: &nbsp;Awarded the China National Scholarship.
 - *2022.04*: &nbsp;One IJCAI paper is accepted.
 - *2022.03*: &nbsp;One ICME paper is accepted as oral.
 
 # 🎯 Research Interests
 
-My research centers on **generalized** and **efficient** deep learning. Numbers in brackets link to the corresponding entries in [Publications](#-publications) below.
+My research centers on **efficient** and **generalized** deep learning. Numbers in brackets link to the corresponding entries in [Publications](#-publications) below.
 
-- **Deep Learning Under Imperfect Data — Federated Learning (FL).** A privacy-preserving distributed framework that lets multiple devices or organizations collaboratively train a global model without sharing raw data.
-  - *Imperfect global data scenarios:* tackling long-tailed class distributions [[14](#pub-14),[13](#pub-13)] and limited labeled data [[8](#pub-8),[7](#pub-7)] to improve robustness and reliability.
-  - *Personalization:* enhancing local-model personalization while preserving global performance [[11](#pub-11)].
-  - *Generalization & optimization:* improving global-model generalization through the lens of training dynamics [[12](#pub-12)].
+- **Efficient Deep Learning.** Compressing large datasets into compact, informative subsets, and identifying which data most effectively drives training efficiency.
+  - *Scalable distillation:* methods scaling from CIFAR-10 to ImageNet-1K [[7](#pub-7)], with privacy-preserving variants [[1](#pub-1)].
+  - *Enhanced utilization:* unlocking the full label potential of distilled data [[6](#pub-6)], and exploring novel usage paradigms [[2](#pub-2)].
+  - *Survey:* the first comprehensive, stage-wise review of dataset distillation in the large-scale-data era [[3](#pub-3)].
 
-- **Efficient Deep Learning — Dataset Distillation.** Compressing a large dataset into a much smaller distilled one while preserving downstream accuracy.
-  - *Efficient distillation:* methods that scale from CIFAR-10 to ImageNet-1K [[10](#pub-10)] and privacy-preserving variants [[3](#pub-3)].
-  - *Enhanced utilization:* unlocking the full label potential of distilled data [[9](#pub-9)], revealing key advantages beyond training efficiency [[5](#pub-5)], and novel usage paradigms [[4](#pub-4)].
-  - *Survey:* the first comprehensive, stage-wise review of dataset distillation in the large-scale-data era [[6](#pub-6)].
-
-- **Efficient Deep Learning — Data-Efficient Learning.** A data-centric perspective on which data improves training efficiency, and how to acquire it.
-  - *Understanding efficient data:* analyzing how samples (X) and targets (Y) jointly shape training efficiency [[2](#pub-2)].
-  - *Data optimization:* leveraging publicly pre-trained models to optimize large-scale unlabeled data [[1](#pub-1)].
+- **Federated Learning (FL).** A privacy-preserving distributed paradigm enabling collaborative model training across devices or organizations without sharing raw data.
+  - *Imperfect global data:* addressing long-tailed class distributions [[11](#pub-11),[10](#pub-10)] and limited labeled data [[5](#pub-5),[4](#pub-4)] for improved robustness.
+  - *Personalization:* strengthening local-model personalization while preserving global performance [[8](#pub-8)].
+  - *Generalization & optimization:* improving global-model generalization through the lens of training dynamics [[9](#pub-9)].
 
 
 # 📝 Publications 
 
 <sub><em><sup>*</sup> denotes equal contribution; <sup>†</sup> denotes corresponding author.</em></sub>
 
-<div class='paper-box' id='pub-1'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="cudo" width="100%"></div></div>
+<div class='paper-box' id='pub-1'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="privacy" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[1]** [Collaborative Unlabeled Data Optimization](https://arxiv.org/pdf/2505.14117)
-
-**Xinyi Shang<sup>*</sup>**, Peng Sun<sup>*</sup>, Fengyuan Liu<sup>*</sup>, Tao Lin<sup>†</sup>.
-- We pioneer a data-centric paradigm for collaborative unlabeled data optimization, demonstrating effectiveness and efficiency across diverse datasets and architectures.
-</div>
-</div>
-
-<div class='paper-box' id='pub-2'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="equallycritical" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[2]** Equally Critical: Samples, Targets, and Their Mappings in Datasets
-
-Runkang Yang<sup>*</sup>, Peng Sun<sup>*</sup>, **Xinyi Shang<sup>*</sup>**, Yi Tang, Tao Lin<sup>†</sup>.
-- Recent work mostly optimizes samples X while overlooking targets Y. We review the sample-target relationship and comprehensively analyze how variations in target and sample types, quantities, and qualities influence training efficiency and efficacy.
-</div>
-</div>
-
-<div class='paper-box' id='pub-3'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="privacy" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[3]** Privacy as a Free Lunch: Crafting Initial Distilled Datasets through the Kaleidoscope
+**[1]** Privacy as a Free Lunch: Crafting Initial Distilled Datasets through the Kaleidoscope
 
 Shuo Shi<sup>*</sup>, Peng Sun<sup>*</sup>, **Xinyi Shang<sup>*</sup>**, Tianyu Du<sup>†</sup>, Xuhong Zhang, Jianwei Yin, Tao Lin.
 - We identify explicit privacy leakage in distilled datasets and show theoretically that it stems from initializing distilled images with real data. A plug-and-play module applies strong perturbations to real data during initialization to address this.
 </div>
 </div>
 
-<div class='paper-box' id='pub-4'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="rethinking" width="100%"></div></div>
+<div class='paper-box' id='pub-2'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="rethinking" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[4]** Rethinking the Use of Distilled Data: Embrace, Don't Abandon, the Original Data
+**[2]** Rethinking the Use of Distilled Data: Embrace, Don't Abandon, the Original Data
 
 **Xinyi Shang<sup>†</sup>**, Jing-Hao Xue.
 - We revisit the use of distilled data and propose a dynamic framework that integrates distilled and original data by analyzing their distinct properties. Efficacy is demonstrated both theoretically and empirically.
 </div>
 </div>
 
-<div class='paper-box' id='pub-5'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="earlystage" width="100%"></div></div>
+<div class='paper-box' id='pub-3'><div class='paper-box-image'><div><div class="badge">Preprint T-PAMI</div><img src='images/500x300.png' alt="dd-survey" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[5]** Early-Stage Training with Distilled Data Helps Prevalently
-
-**Xinyi Shang<sup>†</sup>**, Jing-Hao Xue.
-- We uncover a key advantage of distilled datasets: in early training phases, models trained on distilled data show substantially higher efficiency than those trained on original data. We provide explanations and validate the practical implications.
-</div>
-</div>
-
-<div class='paper-box' id='pub-6'><div class='paper-box-image'><div><div class="badge">Preprint T-PAMI</div><img src='images/500x300.png' alt="dd-survey" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[6]** [Dataset Distillation in the Era of Large-Scale Data: Methods, Analysis, and Future Directions](https://www.techrxiv.org/users/923195/articles/1295079-dataset-distillation-in-the-era-of-large-scale-data-methods-analysis-and-future-directions)
+**[3]** [Dataset Distillation in the Era of Large-Scale Data: Methods, Analysis, and Future Directions](https://www.techrxiv.org/users/923195/articles/1295079-dataset-distillation-in-the-era-of-large-scale-data-methods-analysis-and-future-directions)
 
 **Xinyi Shang**, Peng Sun, Zhiqiang Shen, Tao Lin, Jing-Hao Xue.
 
@@ -123,10 +90,10 @@ Shuo Shi<sup>*</sup>, Peng Sun<sup>*</sup>, **Xinyi Shang<sup>*</sup>**, Tianyu 
 </div>
 </div>
 
-<div class='paper-box' id='pub-7'><div class='paper-box-image'><div><div class="badge">TAI 2025</div><img src='images/500x300.png' alt="fedssl-ah" width="100%"></div></div>
+<div class='paper-box' id='pub-4'><div class='paper-box-image'><div><div class="badge">TAI 2025</div><img src='images/500x300.png' alt="fedssl-ah" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[7]** [Federated Semi-Supervised Learning with Annotation Heterogeneity](https://arxiv.org/pdf/2303.02445.pdf)
+**[4]** [Federated Semi-Supervised Learning with Annotation Heterogeneity](https://arxiv.org/pdf/2303.02445.pdf)
 
 **Xinyi Shang**, Gang Huang, Yang Lu<sup>†</sup>, Jian Lou, Bo Han, Yiu-ming Cheung, Hanzi Wang.
 
@@ -134,10 +101,10 @@ Shuo Shi<sup>*</sup>, Peng Sun<sup>*</sup>, **Xinyi Shang<sup>*</sup>**, Tianyu 
 </div>
 </div>
 
-<div class='paper-box' id='pub-8'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="mindthegap" width="100%"></div></div>
+<div class='paper-box' id='pub-5'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="mindthegap" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[8]** [Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch](https://arxiv.org/pdf/2503.13227.pdf)
+**[5]** [Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch](https://arxiv.org/pdf/2503.13227.pdf)
 
 Yijie Liu, **Xinyi Shang**, Yiqun Zhang, Yang Lu<sup>†</sup>, Chen Gong, Jing-Hao Xue, Hanzi Wang.
 
@@ -145,10 +112,10 @@ Yijie Liu, **Xinyi Shang**, Yiqun Zhang, Yang Lu<sup>†</sup>, Chen Gong, Jing-
 </div>
 </div>
 
-<div class='paper-box' id='pub-9'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/500x300.png' alt="gift" width="100%"></div></div>
+<div class='paper-box' id='pub-6'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/500x300.png' alt="gift" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[9]** [GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost](https://arxiv.org/pdf/2405.14736) \| [[code]](https://github.com/LINs-lab/GIFT)
+**[6]** [GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost](https://arxiv.org/pdf/2405.14736) \| [[code]](https://github.com/LINs-lab/GIFT)
 
 **Xinyi Shang<sup>*</sup>**, Peng Sun<sup>*</sup>, Tao Lin<sup>†</sup>.
 
@@ -156,10 +123,10 @@ Yijie Liu, **Xinyi Shang**, Yiqun Zhang, Yang Lu<sup>†</sup>, Chen Gong, Jing-
 </div>
 </div>
 
-<div class='paper-box' id='pub-10'><div class='paper-box-image'><div><div class="badge">ICLRW 2024 DMLR</div><img src='images/500x300.png' alt="infocomp" width="100%"></div></div>
+<div class='paper-box' id='pub-7'><div class='paper-box-image'><div><div class="badge">ICLRW 2024 DMLR</div><img src='images/500x300.png' alt="infocomp" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[10]** [Information Compensation: A Fix for Any-scale Dataset Distillation](https://openreview.net/forum?id=2SnmKd1JK4)
+**[7]** [Information Compensation: A Fix for Any-scale Dataset Distillation](https://openreview.net/forum?id=2SnmKd1JK4)
 
 Peng Sun, Bei Shi, **Xinyi Shang**, Tao Lin<sup>†</sup>.
 
@@ -167,10 +134,10 @@ Peng Sun, Bei Shi, **Xinyi Shang**, Tao Lin<sup>†</sup>.
 </div>
 </div>
 
-<div class='paper-box' id='pub-11'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/500x300.png' alt="fedetf" width="100%"></div></div>
+<div class='paper-box' id='pub-8'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/500x300.png' alt="fedetf" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[11]** [No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier](https://arxiv.org/pdf/2303.10058.pdf) \| [[code]](https://github.com/ZexiLee/ICCV-2023-FedETF)
+**[8]** [No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier](https://arxiv.org/pdf/2303.10058.pdf) \| [[code]](https://github.com/ZexiLee/ICCV-2023-FedETF)
 
 Zexi Li, **Xinyi Shang**, Rui He, Tao Lin<sup>†</sup>, Chao Wu<sup>†</sup>.
 
@@ -178,10 +145,10 @@ Zexi Li, **Xinyi Shang**, Rui He, Tao Lin<sup>†</sup>, Chao Wu<sup>†</sup>.
 </div>
 </div>
 
-<div class='paper-box' id='pub-12'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/500x300.png' alt="fedlaw" width="100%"></div></div>
+<div class='paper-box' id='pub-9'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/500x300.png' alt="fedlaw" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[12]** [Understanding the Training Dynamics in Federated Deep Learning via Aggregation Weight Optimization](https://arxiv.org/pdf/2302.10911.pdf) \| [[code]](https://github.com/ZexiLee/ICML-2023-FedLAW)
+**[9]** [Understanding the Training Dynamics in Federated Deep Learning via Aggregation Weight Optimization](https://arxiv.org/pdf/2302.10911.pdf) \| [[code]](https://github.com/ZexiLee/ICML-2023-FedLAW)
 
 Zexi Li, Tao Lin<sup>†</sup>, **Xinyi Shang**, Chao Wu<sup>†</sup>.
 
@@ -189,10 +156,10 @@ Zexi Li, Tao Lin<sup>†</sup>, **Xinyi Shang**, Chao Wu<sup>†</sup>.
 </div>
 </div>
 
-<div class='paper-box' id='pub-13'><div class='paper-box-image'><div><div class="badge">ICME 2022 Oral</div><img src='images/500x300.png' alt="fedic" width="100%"></div></div>
+<div class='paper-box' id='pub-10'><div class='paper-box-image'><div><div class="badge">ICME 2022 Oral</div><img src='images/500x300.png' alt="fedic" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[13]** [FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation](https://arxiv.org/pdf/2205.00172.pdf) \| [[code]](https://github.com/shangxinyi/FEDIC)
+**[10]** [FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation](https://arxiv.org/pdf/2205.00172.pdf) \| [[code]](https://github.com/shangxinyi/FEDIC)
 
 **Xinyi Shang**, Yang Lu<sup>†</sup>, Yiu-ming Cheung, Hanzi Wang.
 
@@ -200,10 +167,10 @@ Zexi Li, Tao Lin<sup>†</sup>, **Xinyi Shang**, Chao Wu<sup>†</sup>.
 </div>
 </div>
 
-<div class='paper-box' id='pub-14'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/500x300.png' alt="creff" width="100%"></div></div>
+<div class='paper-box' id='pub-11'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/500x300.png' alt="creff" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[14]** [Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features](https://arxiv.org/pdf/2204.13399.pdf) \| [[code]](https://github.com/shangxinyi/CReFF-FL)
+**[11]** [Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features](https://arxiv.org/pdf/2204.13399.pdf) \| [[code]](https://github.com/shangxinyi/CReFF-FL)
 
 **Xinyi Shang**, Yang Lu<sup>†</sup>, Gang Huang, Hanzi Wang.
 
