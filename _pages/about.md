@@ -23,6 +23,7 @@ You can reach me at <a href="mailto:xinyi.shang.23@ucl.ac.uk">xinyi.shang.23@ucl
 
 
 # 🔥 News
+- *2025.09*: &nbsp;Started as a **visiting student** at MBZUAI, supervised by [Prof. Zhiqiang Shen](https://zhiqiangshen.com/).
 - *2023.05*: &nbsp;🎉 Received the **Outstanding Master Thesis** Award.
 - *2023.03*: &nbsp;🎉 Received the PhD offer from **University College London (UCL)**, supported by scholarship!
 - *2022.11*: &nbsp;Started a research internship at Westlake University, supervised by [Prof. Tao Lin](https://tlin-taolin.github.io/).
