@@ -75,7 +75,7 @@ Jiacheng Liu, Xiaohan Zhao, **Xinyi Shang**, Zhiqiang Shen.
 </div>
 </div>
 
-<div class='paper-box' id='pub-2'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="vlm-tampering" width="100%"></div></div>
+<div class='paper-box' id='pub-2'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/vlm_tampering.png' alt="vlm-tampering" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[2]** [From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering](https://arxiv.org/pdf/2603.20193)
@@ -86,7 +86,7 @@ Jiacheng Liu, Xiaohan Zhao, **Xinyi Shang**, Zhiqiang Shen.
 </div>
 </div>
 
-<div class='paper-box' id='pub-3'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="golddiff" width="100%"></div></div>
+<div class='paper-box' id='pub-3'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/golddiff.png' alt="golddiff" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[3]** [Fast and Scalable Analytical Diffusion](https://arxiv.org/pdf/2602.16498)
@@ -97,7 +97,7 @@ Jiacheng Liu, Xiaohan Zhao, **Xinyi Shang**, Zhiqiang Shen.
 </div>
 </div>
 
-<div class='paper-box' id='pub-4'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="duality" width="100%"></div></div>
+<div class='paper-box' id='pub-4'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/duality.png' alt="duality" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[4]** [Duality Models: An Embarrassingly Simple One-step Generation Paradigm](https://arxiv.org/pdf/2602.17682)
@@ -108,7 +108,7 @@ Peng Sun, **Xinyi Shang**, Tao Lin, Zhiqiang Shen.
 </div>
 </div>
 
-<div class='paper-box' id='pub-5'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="captchas" width="100%"></div></div>
+<div class='paper-box' id='pub-5'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/nextgen.png' alt="captchas" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[5]** [Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense](https://arxiv.org/pdf/2602.09012)
@@ -130,7 +130,7 @@ Jiacheng Liu, Yaxin Luo, Jiacheng Cui, **Xinyi Shang**, Xiaohan Zhao, Zhiqiang S
 </div>
 </div>
 
-<div class='paper-box' id='pub-7'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="dd-survey" width="100%"></div></div>
+<div class='paper-box' id='pub-7'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/dd_survey.png' alt="dd-survey" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[7]** [Dataset Distillation in the Era of Large-Scale Data: Methods, Analysis, and Future Directions](https://www.techrxiv.org/users/923195/articles/1295079-dataset-distillation-in-the-era-of-large-scale-data-methods-analysis-and-future-directions)
