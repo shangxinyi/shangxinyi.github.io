@@ -1,82 +1,71 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hello~ I am Xinyi, a Ph.D. candidate at University College London (UCL), luckily supervised by [Prof. Jing-Hao Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). Before that, I received my master's degree with honors in Computer Science from Xiamen University (XMU), fortunately supervised by [Dr. Yang Lu](https://jasonyanglu.github.io/). My main research interests lie in **Generalized Deep Learning under imperfect environments** and **Efficient Deep Learning**.
 
-## Research Interests
-- **Generalized Deep Learning**
-  - Federated Learning
-  - Long-tailed Learning
-  - Semi-supervised Learning
-  - Out-of-distribution Generalization
-  - Underspecification Data
-- **Efficient Deep Learning**
-  - Dataset Distillation
-  - Data-Efficient Learning
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-## Information
-- Email: xinyi.shang.23 [at] ucl.ac.uk
-- Github: [https://github.com/shangxinyi/](https://github.com/shangxinyi/)
-- Google Scholar: [https://scholar.google.com/](https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ)
+<span class='anchor' id='about-me'></span>
 
-<!--Tip: *Italics* indicate the first author.-->
+Hello~ I am Xinyi, a Ph.D. candidate at University College London (UCL), luckily supervised by [Prof. Jing-Hao Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). Before that, I received my master's degree with honors in Computer Science from Xiamen University (XMU), fortunately supervised by [Dr. Yang Lu](https://jasonyanglu.github.io/). My main research interests lie in **Generalized Deep Learning under imperfect environments** and **Efficient Deep Learning**, including:
+
+- **Generalized Deep Learning**: Federated Learning, Long-tailed Learning, Semi-supervised Learning, Out-of-distribution Generalization, Underspecification Data.
+- **Efficient Deep Learning**: Dataset Distillation, Data-Efficient Learning.
+
+You can reach me via email at <a href="mailto:xinyi.shang.23@ucl.ac.uk">xinyi.shang.23@ucl.ac.uk</a>, or find my publications on <a href='https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ'>Google Scholar</a> <a href='https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
-## Recent News
-- **May 19 2023**: Receive the **Outstanding Master Thesis** Award.
-- **Mar 28 2023**: Receive the PhD offer from **University College London (UCL)** supported by scholarship!!
-- **Nov 23 2022**: Start research intern at Westlake University, supervised by [Prof. Tao Lin](https://tlin-taolin.github.io/).
-- **Sep 29 2022**: Get the China National Scholarship.
-- **Apr 21 2022**: One IJCAI paper  ["Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features"](https://arxiv.org/pdf/2204.13399.pdf) is accepted. 
-- **Mar 6 2022**: One ICME paper  ["FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation"](https://arxiv.org/pdf/2205.00172.pdf) is accepted as oral paper.
+# 🔥 News
+- *2023.05*: &nbsp;🎉 Received the **Outstanding Master Thesis** Award.
+- *2023.03*: &nbsp;🎉 Received the PhD offer from **University College London (UCL)**, supported by scholarship!
+- *2022.11*: &nbsp;Started a research internship at Westlake University, supervised by [Prof. Tao Lin](https://tlin-taolin.github.io/).
+- *2022.09*: &nbsp;Awarded the China National Scholarship.
+- *2022.04*: &nbsp;One IJCAI paper *"Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features"* is accepted.
+- *2022.03*: &nbsp;One ICME paper *"FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation"* is accepted as **oral**.
 
-## Academic Service
-- **Conference Reviewer:** International Conference on Learning Representations (ICLR) 2025, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025, International Joint Conference on Artificial Intelligence (IJCAI) 2024.
-- **Journal Reviewer:** IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), ACM Computing Surveys (CSUR), IEEE Transactions on Cybernetics (ITC), IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI). 
+# 📝 Publications 
 
-<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+- [Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features](https://arxiv.org/pdf/2204.13399.pdf), **Xinyi Shang**, Yang Lu, Gang Huang, Hanzi Wang, **IJCAI 2022**.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- [FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation](https://arxiv.org/pdf/2205.00172.pdf), **Xinyi Shang**, Yang Lu, Yiu-ming Cheung, Hanzi Wang, **ICME 2022 (Oral)**.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+# 🎖 Honors and Awards
+- *2023* Xiamen University Outstanding Master Thesis.
+- *2023* Xiamen University Outstanding Graduates.
+- *2022* China National Scholarship (Top 0.2%, the highest-level scholarship established by the central government).
+- *2022* Excellent Merit Student of Xiamen University (Top 2%).
+- *2021* Merit Student of Xiamen University (Top 8%).
+- *2020* China College Students Innovation and Entrepreneurship Competition — two provincial projects.
+- *2019* Provincial Excellent Volunteer honor (500+ hours of volunteering).
+- *2018* Star of Excellent Volunteers honor (only one student in the college per year).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+# 📖 Educations
+- *2023.09 - 2027 (expected)*, Ph.D. in Statistical Science, University College London.
+- *2020.09 - 2023.06*, M.S. in Computer Science, Xiamen University.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+# 💻 Research Experience
+- *2022.11 - 2023.09*, Research Intern, [LINs Lab](https://lins-lab.github.io/), Westlake University, supervised by [Prof. Tao Lin](https://tlin-taolin.github.io/). *Decentralized deep learning.*
+- *2022.06 - 2022.09*, Research Intern, MARS Lab, Wuhan University, supervised by [Prof. Mang Ye](https://marswhu.github.io/). *Federated learning.*
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+# 🤝 Academic Service
+- **Conference Reviewer:** ICLR 2025, CVPR 2025, WACV 2025, IJCAI 2024.
+- **Journal Reviewer:** IEEE TNNLS, IEEE TCSVT, ACM CSUR, IEEE TC, IEEE TETCI.
 
-**Markdown generator**
+# 🙌 Voluntary Activities
+- *2019.03 - 2019.09*, Director of [Teach For China](https://baike.baidu.com/item/%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD/499616) at Zhongnan University of Economics and Law.
+- *2017.09 - 2019.06*, Director of [We-Bright](https://baike.baidu.com/item/%E5%BE%AE%E5%85%89%E6%94%AF%E6%95%99/16975919), supporting 53 rural primary schools across Sichuan and Guangxi provinces.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+# 🎨 Hobbies
+- [Cooking and Bakery](/files/bakery.pdf) — I hope I will own my bakery one day.
+- [Drawing](/files/drawing.pdf).
+- Photography and keeping journals.
