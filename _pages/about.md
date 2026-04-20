@@ -34,11 +34,6 @@ You can reach me at <a href="mailto:xinyi.shang.23@ucl.ac.uk">xinyi.shang.23@ucl
 - *2025.09*: &nbsp;Started as a **visiting student** at MBZUAI, supervised by [Prof. Zhiqiang Shen](https://zhiqiangshen.com/).
 - *2025.02*: &nbsp;🎉 One paper is accepted by **CVPR 2025**.
 - *2025.01*: &nbsp;🎉 One paper is accepted by **ICLR 2025**.
-- *2023.05*: &nbsp;🎉 Received the **Outstanding Master Thesis** Award.
-- *2023.03*: &nbsp;🎉 Received the **PhD offer** from University College London (UCL), supported by full scholarship!
-- *2022.09*: &nbsp;Awarded the China National Scholarship.
-- *2022.04*: &nbsp;One IJCAI paper is accepted.
-- *2022.03*: &nbsp;One ICME paper is accepted as oral.
 
 # 🎯 Research Interests
 
@@ -234,7 +229,7 @@ Zexi Li, Tao Lin<sup>†</sup>, **Xinyi Shang**, Chao Wu<sup>†</sup>.
 - *2022.06 - 2022.09*, Research Intern, MARS Lab, Wuhan University, supervised by [Prof. Mang Ye](https://marswhu.github.io/). *Federated learning.*
 
 # 🤝 Academic Service
-- **Conference Reviewer:** ECCV 2026, KDD 2026, ICML 2026, CVPR 2026, ICLR 2026, ICLR 2025, NeurIPS 2025, ICCV 2025, ICLR 2025, CVPR 2025, WACV 2025, IJCAI 2024.
+- **Conference Reviewer:** ECCV 2026, KDD 2026, ICML 2026, CVPR 2026, ICLR 2026, NeurIPS 2025, ICCV 2025, ICLR 2025, CVPR 2025, WACV 2025, IJCAI 2024.
 - **Journal Reviewer:** IEEE TPAMI / TNNLS / TCSVT, ACM Computing Surveys.
 
 # 🙌 Voluntary Activities
