@@ -251,7 +251,7 @@ Zexi Li, Tao Lin<sup>†</sup>, **Xinyi Shang**, Chao Wu<sup>†</sup>.
 - *2019* Provincial Excellent Volunteer honor (500+ hours of volunteering).
 - *2018* Star of Excellent Volunteers honor (only one student in the college per year).
 
-# 💻 Research Experience
+# 💻 Research Internships
 - *2025.09 - Present*, Research Intern, [VILA Lab](https://github.com/VILA-Lab), Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), supervised by [Prof. Zhiqiang Shen](https://zhiqiangshen.com/).
 - *2022.11 - 2023.09*, Research Intern, [LINs Lab](https://lins-lab.github.io/), Westlake University, supervised by [Prof. Tao Lin](https://tlin-taolin.github.io/).
 - *2022.06 - 2022.09*, Research Intern, MARS Lab, Wuhan University, supervised by [Prof. Mang Ye](https://marswhu.github.io/).
