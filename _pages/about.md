@@ -372,7 +372,7 @@ Zexi Li, Tao Lin<sup>†</sup>, **Xinyi Shang**, Chao Wu<sup>†</sup>.
 </div>
 
 <div style="margin-top: 30px; padding-top: 15px; border-top: 1px solid #eee; text-align: center;">
-  <div style="display: inline-block;">
+  <div style="width: 200px; margin: 0 auto;">
     <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=zeU9GvMYBzE6PI-w7X6wqMo_jLfIIU89uqaWR8IOj5Q"></script>
   </div>
   <div style="font-size: 0.85em; color: #888; margin-top: 10px;">
