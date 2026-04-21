@@ -252,9 +252,9 @@ Zexi Li, Tao Lin<sup>†</sup>, **Xinyi Shang**, Chao Wu<sup>†</sup>.
 - *2018* Star of Excellent Volunteers honor (only one student in the college per year).
 
 # 💻 Research Internships
-- *2025.09 - Present*, Research Intern, [VILA Lab](https://github.com/VILA-Lab), Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), supervised by [Prof. Zhiqiang Shen](https://zhiqiangshen.com/).
-- *2022.11 - 2023.09*, Research Intern, [LINs Lab](https://lins-lab.github.io/), Westlake University, supervised by [Prof. Tao Lin](https://tlin-taolin.github.io/).
-- *2022.06 - 2022.09*, Research Intern, MARS Lab, Wuhan University, supervised by [Prof. Mang Ye](https://marswhu.github.io/).
+- *2025.09 - Present*, [VILA Lab](https://github.com/VILA-Lab), Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), supervised by [Prof. Zhiqiang Shen](https://zhiqiangshen.com/).
+- *2022.11 - 2023.09*, [LINs Lab](https://lins-lab.github.io/), Westlake University, supervised by [Prof. Tao Lin](https://tlin-taolin.github.io/).
+- *2022.06 - 2022.09*, MARS Lab, Wuhan University, supervised by [Prof. Mang Ye](https://marswhu.github.io/).
 
 # 🤝 Academic Service
 - **Conference Reviewer:** ECCV 2026, KDD 2026, ICML 2026, CVPR 2026, ICLR 2026, NeurIPS 2025, ICCV 2025, ICLR 2025, CVPR 2025, WACV 2025, IJCAI 2024.
