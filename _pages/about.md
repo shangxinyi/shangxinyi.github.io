@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi~ I'm Xinyi, a Ph.D. candidate at University College London (UCL), fortunate to be supervised by [Prof. Jing-Hao Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). Before UCL, I received my master's degree with honors from Xiamen University (XMU) under the wonderful guidance of [Prof. Yang Lu](https://jasonyanglu.github.io/).
+Hi~ I'm Xinyi, a third-year Ph.D. candidate at University College London (UCL), fortunate to be supervised by [Prof. Jing-Hao Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). Before UCL, I received my master's degree with honors from Xiamen University (XMU) under the wonderful guidance of [Prof. Yang Lu](https://jasonyanglu.github.io/).
 
-I'm currently a visiting student at MBZUAI, fortunate to be supervised by [Prof. Zhiqiang Shen](https://zhiqiangshen.com/), and I've truly been enjoying my time in Abu Dhabi. I've also been lucky to spend time as a research intern at Westlake University with [Prof. Tao Lin](https://tlin-taolin.github.io/), and at Wuhan University with [Prof. Mang Ye](https://marswhu.github.io/). I'm especially grateful to my long-term collaborators, [Peng Sun](https://scholar.google.com/citations?user=-8XvRRIAAAAJ&hl=zh-CN) at Westlake University & Zhejiang University, and [Jingyu Lin](https://openreview.net/profile?id=%7EJingyu_Lin5) at Monash University, whose friendship and shared curiosity make research truly wonderful and joyful.
+I'm currently a visiting student at MBZUAI, fortunate to be supervised by [Prof. Zhiqiang Shen](https://zhiqiangshen.com/), and I've truly been enjoying my time in Abu Dhabi. I've also been lucky to spend time as a research intern at Westlake University with [Prof. Tao Lin](https://tlin-taolin.github.io/), and at Wuhan University with [Prof. Mang Ye](https://marswhu.github.io/). I'm especially grateful to my long-term collaborators, [Peng Sun](https://scholar.google.com/citations?user=-8XvRRIAAAAJ&hl=zh-CN) at Westlake University & Zhejiang University, [Zexi Li](https://zexilee.github.io/about-zexili//) at Knowin AI, and [Jingyu Lin](https://openreview.net/profile?id=%7EJingyu_Lin5) at Monash University, whose friendship and shared curiosity make research truly wonderful and joyful.
 
 Last but not least, a heartfelt thank-you to my three ragdoll cats, 🍉 (xixi), 🧃 (zhizhi), and 🥥 (yeye), for their unwavering company throughout my Ph.D. journey. 🐾
 
 
-You can reach me at <a href="mailto:xinyi.shang.23@ucl.ac.uk">xinyi.shang.23@ucl.ac.uk</a>, and find my publications on <a href='https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ'>Google Scholar</a> <a href='https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+You can reach me at [xinyi.shang.23 [at] ucl.ac.uk](mailto:xinyi.shang.23@ucl.ac.uk), and find my publications on <a href='https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ'>Google Scholar</a> <a href='https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
@@ -42,7 +42,7 @@ My research centers on **efficient** and **generalized** deep learning, with rec
 - **Foundation Models & Generative AI.** Studying the design and safety of AI agent systems, pushing vision–language understanding to finer-grained semantics, and making generative modeling faster and more scalable.
   - *Efficient generative modeling:* fast, scalable analytical diffusion [[3](#pub-3)] and one-step generation via duality [[4](#pub-4)].
   - *AI agent analysis & defense:* understanding Claude Code's design space [[1](#pub-1)] and defending against GUI agents via cognitive-gap CAPTCHAs [[5](#pub-5)].
-  - *Vision–language understanding:* semantic, pixel-level image tampering detection beyond masks [[2](#pub-2)].
+  - *Vision–language understanding:* semantic, pixel-level image tampering detection [[2](#pub-2)].
 
 - **Efficient Deep Learning.** Compressing large datasets into compact, informative subsets, and identifying which data most effectively drives training efficiency.
   - *Scalable distillation:* methods scaling from CIFAR-10 to ImageNet-1K [[10](#pub-10)].
@@ -66,7 +66,7 @@ My research centers on **efficient** and **generalized** deep learning, with rec
 
 Jiacheng Liu, Xiaohan Zhao, **Xinyi Shang**, Zhiqiang Shen<sup>†</sup>.
 
-*arXiv Preprint, 2026.*
+*Technical Report, 2026.*
 
 - A comprehensive source-level architectural analysis of Claude Code (v2.1.88, ~1,900 TypeScript files, ~512K lines of code), combined with a curated collection of community analyses, a design-space guide for agent builders, and cross-system comparisons.
 </div>
@@ -266,7 +266,7 @@ Zexi Li, Tao Lin<sup>†</sup>, **Xinyi Shang**, Chao Wu<sup>†</sup>.
 
 # 🎨 Hobbies
 - [Cooking and Bakery](/files/bakery.pdf) — I hope I will own my bakery one day.
-- Drawing.
+- [Drawing](/files/drawing.pdf).
 - Photography and keeping journals.
 
 # 📸 Journey
@@ -370,3 +370,13 @@ Zexi Li, Tao Lin<sup>†</sup>, **Xinyi Shang**, Chao Wu<sup>†</sup>.
   </div>
 
 </div>
+
+<div style="margin-top: 30px; padding-top: 15px; border-top: 1px solid #eee; text-align: center;">
+  <div style="display: inline-block;">
+    <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=zeU9GvMYBzE6PI-w7X6wqMo_jLfIIU89uqaWR8IOj5Q"></script>
+  </div>
+  <div style="font-size: 0.85em; color: #888; margin-top: 10px;">
+    👀 Total visits: <span id="busuanzi_value_site_pv">—</span> &nbsp;·&nbsp; Unique visitors: <span id="busuanzi_value_site_uv">—</span>
+  </div>
+</div>
+<script defer src="https://cn.vercount.one/js"></script>
