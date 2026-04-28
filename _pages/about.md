@@ -62,7 +62,7 @@ My research centers on **efficient** and **generalized** deep learning, with rec
 <div class='paper-box' id='pub-1'><div class='paper-box-image'><div><img src='images/claudecode.png' alt="claudecode" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[1]** [Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://arxiv.org/pdf/2604.14228) \| [[code]](https://github.com/VILA-Lab/Dive-into-Claude-Code)
+**[1]** [Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://arxiv.org/pdf/2604.14228) \| [[code]](https://github.com/VILA-Lab/Dive-into-Claude-Code) <a href='https://github.com/VILA-Lab/Dive-into-Claude-Code'><img src="https://img.shields.io/github/stars/VILA-Lab/Dive-into-Claude-Code?style=social" style="vertical-align:middle;"></a>
 
 Jiacheng Liu, Xiaohan Zhao, **Xinyi Shang**, Zhiqiang Shen<sup>†</sup>.
 
