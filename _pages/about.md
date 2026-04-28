@@ -24,7 +24,7 @@ I'm currently a visiting student at MBZUAI, fortunate to be supervised by [Prof.
 Last but not least, a heartfelt thank-you to my three ragdoll cats, 🍉 (xixi), 🧃 (zhizhi), and 🥥 (yeye), for their unwavering company throughout my Ph.D. journey. 🐾
 
 
-You can reach me at [xinyi.shang.23 [at] ucl.ac.uk](mailto:xinyi.shang.23@ucl.ac.uk), and find my publications on <a href='https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ'>Google Scholar</a> <a href='https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+You can reach me at [xinyi.shang.23 [at] ucl.ac.uk](mailto:xinyi.shang.23@ucl.ac.uk), and find my publications on <a href='https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ'>Google Scholar</a> <a href='https://scholar.google.com/citations?hl=zh-CN&user=pkfBYHAAAAAJ' style="text-decoration:none;display:inline-block;vertical-align:middle;font-family:'DejaVu Sans',Verdana,sans-serif;font-size:11px;line-height:20px;height:20px;border-radius:3px;overflow:hidden;"><span style="background:#f6f6f6;color:#333;padding:0 6px;display:inline-block;height:20px;"><i class="fas fa-graduation-cap" style="margin-right:4px;"></i>citations</span><span style="background:#9cf;color:#fff;padding:0 6px;display:inline-block;height:20px;"><span id="total_cit">…</span></span></a>.
 
 
 # 🔥 News
