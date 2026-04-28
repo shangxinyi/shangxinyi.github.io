@@ -192,7 +192,7 @@ Peng Sun, Bei Shi, **Xinyi Shang**, Tao Lin<sup>†</sup>.
 <div class='paper-box' id='pub-11'><div class='paper-box-image'><div><img src='images/fedetf.png' alt="fedetf" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[11]** [No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier](https://arxiv.org/pdf/2303.10058.pdf) \| [[code]](https://github.com/ZexiLee/ICCV-2023-FedETF)
+**[11]** [No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier](https://arxiv.org/pdf/2303.10058.pdf) \| [[code]](https://github.com/ZexiLee/ICCV-2023-FedETF) <a href='https://github.com/ZexiLee/ICCV-2023-FedETF'><img src="https://img.shields.io/github/stars/ZexiLee/ICCV-2023-FedETF?style=social" style="vertical-align:middle;"></a>
 
 Zexi Li, **Xinyi Shang**, Rui He, Tao Lin<sup>†</sup>, Chao Wu<sup>†</sup>.
 
