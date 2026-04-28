@@ -166,7 +166,7 @@ Yijie Liu, **Xinyi Shang**, Yiqun Zhang, Yang Lu<sup>†</sup>, Chen Gong, Jing-
 <div class='paper-box' id='pub-9'><div class='paper-box-image'><div><img src='images/gift.png' alt="gift" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[9]** [GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost](https://arxiv.org/pdf/2405.14736) \| [[code]](https://github.com/LINs-lab/GIFT)
+**[9]** [GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost](https://arxiv.org/pdf/2405.14736) \| [[code]](https://github.com/LINs-lab/GIFT) <a href='https://github.com/LINs-lab/GIFT'><img src="https://img.shields.io/github/stars/LINs-lab/GIFT?style=social" style="vertical-align:middle;"></a>
 
 **Xinyi Shang<sup>*</sup>**, Peng Sun<sup>*</sup>, Tao Lin<sup>†</sup>.
 
@@ -205,7 +205,7 @@ Zexi Li, **Xinyi Shang**, Rui He, Tao Lin<sup>†</sup>, Chao Wu<sup>†</sup>.
 <div class='paper-box' id='pub-12'><div class='paper-box-image'><div><img src='images/fedlaw.png' alt="fedlaw" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[12]** [Understanding the Training Dynamics in Federated Deep Learning via Aggregation Weight Optimization](https://arxiv.org/pdf/2302.10911.pdf) \| [[code]](https://github.com/ZexiLee/ICML-2023-FedLAW)
+**[12]** [Understanding the Training Dynamics in Federated Deep Learning via Aggregation Weight Optimization](https://arxiv.org/pdf/2302.10911.pdf) \| [[code]](https://github.com/ZexiLee/ICML-2023-FedLAW) <a href='https://github.com/ZexiLee/ICML-2023-FedLAW'><img src="https://img.shields.io/github/stars/ZexiLee/ICML-2023-FedLAW?style=social" style="vertical-align:middle;"></a>
 
 Zexi Li, Tao Lin<sup>†</sup>, **Xinyi Shang**, Chao Wu<sup>†</sup>.
 
@@ -218,7 +218,7 @@ Zexi Li, Tao Lin<sup>†</sup>, **Xinyi Shang**, Chao Wu<sup>†</sup>.
 <div class='paper-box' id='pub-13'><div class='paper-box-image'><div><img src='images/fedic.png' alt="fedic" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[13]** [FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation](https://arxiv.org/pdf/2205.00172.pdf) \| [[code]](https://github.com/shangxinyi/FEDIC)
+**[13]** [FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation](https://arxiv.org/pdf/2205.00172.pdf) \| [[code]](https://github.com/shangxinyi/FEDIC) <a href='https://github.com/shangxinyi/FEDIC'><img src="https://img.shields.io/github/stars/shangxinyi/FEDIC?style=social" style="vertical-align:middle;"></a>
 
 **Xinyi Shang**, Yang Lu<sup>†</sup>, Yiu-ming Cheung, Hanzi Wang.
 
@@ -231,7 +231,7 @@ Zexi Li, Tao Lin<sup>†</sup>, **Xinyi Shang**, Chao Wu<sup>†</sup>.
 <div class='paper-box' id='pub-14'><div class='paper-box-image'><div><img src='images/creff.png' alt="creff" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[14]** [Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features](https://arxiv.org/pdf/2204.13399.pdf) \| [[code]](https://github.com/shangxinyi/CReFF-FL)
+**[14]** [Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features](https://arxiv.org/pdf/2204.13399.pdf) \| [[code]](https://github.com/shangxinyi/CReFF-FL) <a href='https://github.com/shangxinyi/CReFF-FL'><img src="https://img.shields.io/github/stars/shangxinyi/CReFF-FL?style=social" style="vertical-align:middle;"></a>
 
 **Xinyi Shang**, Yang Lu<sup>†</sup>, Gang Huang, Hanzi Wang.
 
