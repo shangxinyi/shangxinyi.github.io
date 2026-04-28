@@ -153,7 +153,7 @@ Jiacheng Liu, Yaxin Luo, Jiacheng Cui, **Xinyi Shang**, Xiaohan Zhao, Zhiqiang S
 <div class='paper-box' id='pub-8'><div class='paper-box-image'><div><img src='images/mindthegap.png' alt="mindthegap" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[8]** [Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch](https://arxiv.org/pdf/2503.13227.pdf)
+**[8]** [Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch](https://arxiv.org/pdf/2503.13227.pdf) \| [[code]](https://github.com/Jay-Codeman/SAGE) <a href='https://github.com/Jay-Codeman/SAGE'><img src="https://img.shields.io/github/stars/Jay-Codeman/SAGE?style=social" style="vertical-align:middle;"></a>
 
 Yijie Liu, **Xinyi Shang**, Yiqun Zhang, Yang Lu<sup>†</sup>, Chen Gong, Jing-Hao Xue, Hanzi Wang.
 
@@ -166,7 +166,7 @@ Yijie Liu, **Xinyi Shang**, Yiqun Zhang, Yang Lu<sup>†</sup>, Chen Gong, Jing-
 <div class='paper-box' id='pub-9'><div class='paper-box-image'><div><img src='images/gift.png' alt="gift" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[9]** [GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost](https://arxiv.org/pdf/2405.14736) \| [[code]](https://github.com/LINs-lab/GIFT) <a href='https://github.com/LINs-lab/GIFT'><img src="https://img.shields.io/github/stars/LINs-lab/GIFT?style=social" style="vertical-align:middle;"></a>
+**[9]** [GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost](https://arxiv.org/pdf/2405.14736) \| [[code]](https://github.com/LINs-lab/GIFT)
 
 **Xinyi Shang<sup>*</sup>**, Peng Sun<sup>*</sup>, Tao Lin<sup>†</sup>.
 
