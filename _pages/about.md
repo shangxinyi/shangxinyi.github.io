@@ -75,7 +75,7 @@ Jiacheng Liu, Xiaohan Zhao, **Xinyi Shang**, Zhiqiang Shen<sup>†</sup>.
 <div class='paper-box' id='pub-2'><div class='paper-box-image'><div><img src='images/vlm_tampering.png' alt="vlm-tampering" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[2]** [From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering](https://arxiv.org/pdf/2603.20193)
+**[2]** [From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering](https://arxiv.org/pdf/2603.20193) \| <a href='https://github.com/VILA-Lab/PIXAR'><i class="fab fa-github" style="margin-right:3px;"></i>[code]</a>
 
 **Xinyi Shang<sup>*</sup>**, Yi Tang<sup>*</sup>, Jiacheng Cui<sup>*</sup>, Ahmed Elhagry, Salwa K. Al Khatib, Sondos Mahmoud Bsharat, Jiacheng Liu, Xiaohan Zhao, Jing-Hao Xue, Hao Li, Salman Khan, Zhiqiang Shen<sup>†</sup>.
 
