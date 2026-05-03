@@ -28,6 +28,7 @@ You can reach me at [xinyi.shang.23 [at] ucl.ac.uk](mailto:xinyi.shang.23@ucl.ac
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉 Four papers are accepted by **ICML 2026**.
 - *2026.04*: &nbsp;📄 We release a technical report for *A Systematic and Comprehensive Analysis of Claude Code*. Paper at: [[Link]](https://github.com/VILA-Lab/Dive-into-Claude-Code)
 - *2026.04*: &nbsp;🎉 One paper is accepted by **ACL 2026 (main)**.
 - *2026.02*: &nbsp;🎉 Two papers are accepted by **CVPR 2026**.
